@@ -23,7 +23,7 @@ valid (date, weight) pair by construction.
 
 - **v1 (below) is complete.** Its results are the current results of this project.
 - **v2 is still being tested.** It is a closer replication of OT09 with 23 formats and 559 pairs; see
-  [v2 (in progress)](#v2-in-progress).
+  [docs/v2.md](docs/v2.md).
 
 ## Results (v1)
 
@@ -61,6 +61,13 @@ cd src
 ../.venv/bin/python extract.py jevk5 test     # resumes from results/v1/pred_jevk5_test.json
 ../.venv/bin/python score.py ../results/v1/pred_rules_test.json ../results/v1/pred_jevk5_test.json
 ```
+
+## More details
+
+- [Methods](docs/methods.md): data formats, candidate extraction, rules, JevK5 questions, WA definitions, speed
+- [Findings and error analysis](docs/error-analysis.md)
+- [Data and limitations](docs/limitations.md)
+- [v2 (in progress)](docs/v2.md)
 
 ## Credits and licenses
 
