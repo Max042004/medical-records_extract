@@ -5,7 +5,7 @@ This project builds on an ACVIM 2026 Forum abstract from the Chu Lab (Texas A&M)
 
 **Original study:** Chang, Arkenberg, Creevy & Chu, *Using Artificial Intelligence for Scalable Data
 Extraction From Medical Records in the Dog Aging Project*, abstract OT09, 2026 ACVIM Forum,
-J Vet Intern Med 40(5), [doi:10.1093/jvimsj/aalag196](https://doi.org/10.1093/jvimsj/aalag196).
+J Vet Intern Med 40(5)
 
 - **Task:** extract every (visit date, body weight) pair from heterogeneous PDF records.
 - **Design:** 59 records with 559 pairs. Rules and prompts were developed on a pilot set of 9 records,
