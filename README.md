@@ -1,7 +1,7 @@
 # Local decision model for extracting visit dates and body weights from medical-record PDFs
 
-This project builds on an ACVIM 2026 Forum abstract from the Chu Lab (Texas A&M). It uses a
-**decision model that runs entirely on a laptop**, so record text never leaves the machine.
+This project builds on an ACVIM 2026 Forum abstract from the Chu Lab (Texas A&M). But uses
+decision model.
 
 **Original study:** Chang, Arkenberg, Creevy & Chu, *Using Artificial Intelligence for Scalable Data
 Extraction From Medical Records in the Dog Aging Project*, abstract OT09, 2026 ACVIM Forum,
