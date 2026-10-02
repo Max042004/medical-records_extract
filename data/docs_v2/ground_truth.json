@@ -1,0 +1,3387 @@
+[
+ {
+  "doc": "pilot_P1_10023239_01",
+  "split": "pilot",
+  "template": "P1",
+  "unseen_format": false,
+  "subject_id": "10023239",
+  "pdf": "pilot/pilot_P1_10023239_01.pdf",
+  "ground_truth": [
+   {
+    "date": "2139-06-08",
+    "weight": 161.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2139-06-21",
+    "weight": 164.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2139-10-17",
+    "weight": 170.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-09-18",
+    "weight": 159.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-09-19",
+    "weight": 160.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-10-11",
+    "weight": 152.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-11-05",
+    "weight": 150.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-11-14",
+    "weight": 146.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-11-27",
+    "weight": 145.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "pilot_P2_10020740_02",
+  "split": "pilot",
+  "template": "P2",
+  "unseen_format": false,
+  "subject_id": "10020740",
+  "pdf": "pilot/pilot_P2_10020740_02.pdf",
+  "ground_truth": [
+   {
+    "date": "2150-05-21",
+    "weight": 180.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-06-18",
+    "weight": 172.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-07-10",
+    "weight": 166.9,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "pilot_P3_10002495_03",
+  "split": "pilot",
+  "template": "P3",
+  "unseen_format": false,
+  "subject_id": "10002495",
+  "pdf": "pilot/pilot_P3_10002495_03.pdf",
+  "ground_truth": [
+   {
+    "date": "2140-11-01",
+    "weight": 72.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2140-12-11",
+    "weight": 72.6,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "pilot_P4_10014354_04",
+  "split": "pilot",
+  "template": "P4",
+  "unseen_format": false,
+  "subject_id": "10014354",
+  "pdf": "pilot/pilot_P4_10014354_04.pdf",
+  "ground_truth": [
+   {
+    "date": "2149-04-13",
+    "weight": 279.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-06-05",
+    "weight": 280.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-06-18",
+    "weight": 275.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-06-19",
+    "weight": 280.3,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-06-29",
+    "weight": 273.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-08-09",
+    "weight": 270.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-08-17",
+    "weight": 264.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-09-18",
+    "weight": 264.2,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-10-10",
+    "weight": 265.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-10-30",
+    "weight": 271.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-11-22",
+    "weight": 238.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-12-11",
+    "weight": 278.3,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-02-05",
+    "weight": 274.8,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-03-01",
+    "weight": 296.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-03-14",
+    "weight": 289.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-04-05",
+    "weight": 286.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-04-10",
+    "weight": 287.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-04-19",
+    "weight": 288.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-04-25",
+    "weight": 286.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-05-01",
+    "weight": 278.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-05-10",
+    "weight": 280.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-05-17",
+    "weight": 291.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "pilot_P5_10002428_05",
+  "split": "pilot",
+  "template": "P5",
+  "unseen_format": false,
+  "subject_id": "10002428",
+  "pdf": "pilot/pilot_P5_10002428_05.pdf",
+  "ground_truth": [
+   {
+    "date": "2154-08-12",
+    "weight": 44.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2154-09-04",
+    "weight": 45.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2154-10-18",
+    "weight": 45.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2155-01-31",
+    "weight": 46.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2155-03-14",
+    "weight": 45.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2155-04-18",
+    "weight": 45.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2155-08-01",
+    "weight": 44.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2155-08-12",
+    "weight": 44.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2155-09-10",
+    "weight": 44.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2155-10-17",
+    "weight": 45.6,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "pilot_P6_10037928_06",
+  "split": "pilot",
+  "template": "P6",
+  "unseen_format": false,
+  "subject_id": "10037928",
+  "pdf": "pilot/pilot_P6_10037928_06.pdf",
+  "ground_truth": [
+   {
+    "date": "2178-07-15",
+    "weight": 65.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2178-09-23",
+    "weight": 67.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2178-09-29",
+    "weight": 65.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2178-10-14",
+    "weight": 67.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2178-10-30",
+    "weight": 67.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2178-12-02",
+    "weight": 66.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-01-01",
+    "weight": 59.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-01-27",
+    "weight": 61.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-03-10",
+    "weight": 62.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-03-27",
+    "weight": 59.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-04-09",
+    "weight": 59.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-05-15",
+    "weight": 59.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-06-15",
+    "weight": 59.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-06-29",
+    "weight": 58.1,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-07-23",
+    "weight": 57.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-07-31",
+    "weight": 55.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-08-14",
+    "weight": 55.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-08-21",
+    "weight": 55.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-09-08",
+    "weight": 56.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-09-18",
+    "weight": 56.2,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "pilot_P7_10004720_07",
+  "split": "pilot",
+  "template": "P7",
+  "unseen_format": false,
+  "subject_id": "10004720",
+  "pdf": "pilot/pilot_P7_10004720_07.pdf",
+  "ground_truth": [
+   {
+    "date": "2184-09-14",
+    "weight": 157.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2184-12-27",
+    "weight": 152.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2185-02-14",
+    "weight": 162.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2185-04-13",
+    "weight": 159.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2185-07-04",
+    "weight": 159.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2185-11-14",
+    "weight": 154.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2186-03-15",
+    "weight": 160.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2186-09-05",
+    "weight": 157.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2186-11-10",
+    "weight": 147.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "pilot_P8_10007795_08",
+  "split": "pilot",
+  "template": "P8",
+  "unseen_format": false,
+  "subject_id": "10007795",
+  "pdf": "pilot/pilot_P8_10007795_08.pdf",
+  "ground_truth": [
+   {
+    "date": "2136-05-22",
+    "weight": 72.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2136-05-31",
+    "weight": 70.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2136-06-26",
+    "weight": 69.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2136-07-05",
+    "weight": 68.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2136-08-28",
+    "weight": 66.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2136-09-22",
+    "weight": 64.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2136-10-02",
+    "weight": 65.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2136-10-23",
+    "weight": 66.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2137-07-10",
+    "weight": 74.4,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "pilot_P9_10004720_09",
+  "split": "pilot",
+  "template": "P9",
+  "unseen_format": false,
+  "subject_id": "10004720",
+  "pdf": "pilot/pilot_P9_10004720_09.pdf",
+  "ground_truth": [
+   {
+    "date": "2182-12-11",
+    "weight": 133.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2183-03-11",
+    "weight": 134.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2183-04-08",
+    "weight": 138.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2183-05-05",
+    "weight": 139.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2183-07-14",
+    "weight": 135.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2183-10-21",
+    "weight": 137.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2183-12-11",
+    "weight": 142.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2184-04-20",
+    "weight": 149.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2184-06-29",
+    "weight": 151.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_U1_10021487_10",
+  "split": "test",
+  "template": "U1",
+  "unseen_format": true,
+  "subject_id": "10021487",
+  "pdf": "test/test_U1_10021487_10.pdf",
+  "ground_truth": [
+   {
+    "date": "2117-01-14",
+    "weight": 264.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-01-19",
+    "weight": 254.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-02-10",
+    "weight": 227.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-05-05",
+    "weight": 204.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-06-16",
+    "weight": 193.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-07-07",
+    "weight": 196.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-08-18",
+    "weight": 199.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-09-09",
+    "weight": 208.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-12-03",
+    "weight": 210.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2118-01-24",
+    "weight": 212.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2118-08-01",
+    "weight": 241.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_U2_10003400_11",
+  "split": "test",
+  "template": "U2",
+  "unseen_format": true,
+  "subject_id": "10003400",
+  "pdf": "test/test_U2_10003400_11.pdf",
+  "ground_truth": [
+   {
+    "date": "2136-02-25",
+    "weight": 89.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2136-04-29",
+    "weight": 88.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2136-11-05",
+    "weight": 84.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2137-01-01",
+    "weight": 82.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2137-02-08",
+    "weight": 80.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2137-02-24",
+    "weight": 83.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2137-05-05",
+    "weight": 83.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2137-08-05",
+    "weight": 97.5,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_U3_10015860_12",
+  "split": "test",
+  "template": "U3",
+  "unseen_format": true,
+  "subject_id": "10015860",
+  "pdf": "test/test_U3_10015860_12.pdf",
+  "ground_truth": [
+   {
+    "date": "2193-11-23",
+    "weight": 171.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2192-09-24",
+    "weight": 184.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2192-07-31",
+    "weight": 179.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2192-07-23",
+    "weight": 181.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2192-07-03",
+    "weight": 181.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2192-05-06",
+    "weight": 185.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2191-12-16",
+    "weight": 199.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2191-01-15",
+    "weight": 192.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2190-05-15",
+    "weight": 198.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2189-05-23",
+    "weight": 195.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2188-09-13",
+    "weight": 204.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2186-12-02",
+    "weight": 192.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_U4_10024043_13",
+  "split": "test",
+  "template": "U4",
+  "unseen_format": true,
+  "subject_id": "10024043",
+  "pdf": "test/test_U4_10024043_13.pdf",
+  "ground_truth": [
+   {
+    "date": "2116-08-26",
+    "weight": 195.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2116-10-06",
+    "weight": 197.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2116-12-24",
+    "weight": 196.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-01-27",
+    "weight": 195.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-02-22",
+    "weight": 188.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-03-24",
+    "weight": 190.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-06-09",
+    "weight": 180.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_U5_10035631_14",
+  "split": "test",
+  "template": "U5",
+  "unseen_format": true,
+  "subject_id": "10035631",
+  "pdf": "test/test_U5_10035631_14.pdf",
+  "ground_truth": [
+   {
+    "date": "2113-02-01",
+    "weight": 78.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2113-01-28",
+    "weight": 78.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2113-01-25",
+    "weight": 78.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2113-01-21",
+    "weight": 77.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2113-01-18",
+    "weight": 78.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2113-01-14",
+    "weight": 78.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2113-01-11",
+    "weight": 77.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2113-01-09",
+    "weight": 77.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2113-01-07",
+    "weight": 78.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2113-01-05",
+    "weight": 76.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-12-31",
+    "weight": 76.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-12-28",
+    "weight": 77.1,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-12-03",
+    "weight": 80.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-11-28",
+    "weight": 79.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-11-23",
+    "weight": 81.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-11-08",
+    "weight": 81.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-11-06",
+    "weight": 81.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-11-02",
+    "weight": 79.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-10-29",
+    "weight": 79.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-10-22",
+    "weight": 78.2,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_U6_10015931_15",
+  "split": "test",
+  "template": "U6",
+  "unseen_format": true,
+  "subject_id": "10015931",
+  "pdf": "test/test_U6_10015931_15.pdf",
+  "ground_truth": [
+   {
+    "date": "2175-12-15",
+    "weight": 129.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2176-03-29",
+    "weight": 129.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2176-08-15",
+    "weight": 136.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2176-09-26",
+    "weight": 135.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2176-11-07",
+    "weight": 133.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2176-11-14",
+    "weight": 130.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2176-12-11",
+    "weight": 130.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2176-12-17",
+    "weight": 137.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2177-01-07",
+    "weight": 115.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2177-01-09",
+    "weight": 117.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2177-02-20",
+    "weight": 122.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2177-03-12",
+    "weight": 120.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_U7_10025612_16",
+  "split": "test",
+  "template": "U7",
+  "unseen_format": true,
+  "subject_id": "10025612",
+  "pdf": "test/test_U7_10025612_16.pdf",
+  "ground_truth": [
+   {
+    "date": "2125-09-10",
+    "weight": 168.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2125-09-24",
+    "weight": 168.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2125-10-06",
+    "weight": 165.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2125-10-13",
+    "weight": 160.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2126-05-13",
+    "weight": 162.7,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_U8_10005348_17",
+  "split": "test",
+  "template": "U8",
+  "unseen_format": true,
+  "subject_id": "10005348",
+  "pdf": "test/test_U8_10005348_17.pdf",
+  "ground_truth": [
+   {
+    "date": "2128-08-19",
+    "weight": 69.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2128-08-26",
+    "weight": 69.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2128-09-18",
+    "weight": 68.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2130-10-26",
+    "weight": 69.3,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_U9_10027445_18",
+  "split": "test",
+  "template": "U9",
+  "unseen_format": true,
+  "subject_id": "10027445",
+  "pdf": "test/test_U9_10027445_18.pdf",
+  "ground_truth": [
+   {
+    "date": "2142-03-28",
+    "weight": 224.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2142-06-18",
+    "weight": 223.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2145-12-08",
+    "weight": 255.1,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_U10_10016150_19",
+  "split": "test",
+  "template": "U10",
+  "unseen_format": true,
+  "subject_id": "10016150",
+  "pdf": "test/test_U10_10016150_19.pdf",
+  "ground_truth": [
+   {
+    "date": "2141-07-10",
+    "weight": 98.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2142-01-25",
+    "weight": 97.1,
+    "unit": "kg"
+   },
+   {
+    "date": "2142-02-20",
+    "weight": 98.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2142-05-10",
+    "weight": 94.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2142-05-31",
+    "weight": 89.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2142-06-04",
+    "weight": 91.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2142-08-13",
+    "weight": 93.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2143-02-25",
+    "weight": 93.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2143-04-29",
+    "weight": 89.4,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_U11_10002428_20",
+  "split": "test",
+  "template": "U11",
+  "unseen_format": true,
+  "subject_id": "10002428",
+  "pdf": "test/test_U11_10002428_20.pdf",
+  "ground_truth": [
+   {
+    "date": "2155-11-10",
+    "weight": 46.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2155-12-11",
+    "weight": 46.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2156-01-30",
+    "weight": 45.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2156-03-05",
+    "weight": 44.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2156-08-06",
+    "weight": 40.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2156-10-29",
+    "weight": 40.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2157-03-11",
+    "weight": 44.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2157-08-31",
+    "weight": 44.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2158-09-13",
+    "weight": 42.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2160-04-14",
+    "weight": 40.8,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_U12_10020306_21",
+  "split": "test",
+  "template": "U12",
+  "unseen_format": true,
+  "subject_id": "10020306",
+  "pdf": "test/test_U12_10020306_21.pdf",
+  "ground_truth": [
+   {
+    "date": "2129-12-06",
+    "weight": 80.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2130-04-01",
+    "weight": 81.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2130-05-01",
+    "weight": 83.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2130-06-03",
+    "weight": 82.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2130-08-12",
+    "weight": 82.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2130-09-16",
+    "weight": 83.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2130-09-30",
+    "weight": 83.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2130-10-10",
+    "weight": 83.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2131-02-10",
+    "weight": 83.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2131-03-17",
+    "weight": 83.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2131-03-24",
+    "weight": 81.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2131-04-15",
+    "weight": 83.1,
+    "unit": "kg"
+   },
+   {
+    "date": "2131-05-19",
+    "weight": 82.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2131-08-12",
+    "weight": 83.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2131-09-16",
+    "weight": 85.1,
+    "unit": "kg"
+   },
+   {
+    "date": "2131-10-16",
+    "weight": 85.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2131-11-26",
+    "weight": 82.1,
+    "unit": "kg"
+   },
+   {
+    "date": "2132-03-15",
+    "weight": 85.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2132-04-13",
+    "weight": 84.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2132-08-30",
+    "weight": 84.4,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_U13_10018081_22",
+  "split": "test",
+  "template": "U13",
+  "unseen_format": true,
+  "subject_id": "10018081",
+  "pdf": "test/test_U13_10018081_22.pdf",
+  "ground_truth": [
+   {
+    "date": "2134-08-18",
+    "weight": 85.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2134-09-06",
+    "weight": 76.8,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_U14_10019917_23",
+  "split": "test",
+  "template": "U14",
+  "unseen_format": true,
+  "subject_id": "10019917",
+  "pdf": "test/test_U14_10019917_23.pdf",
+  "ground_truth": [
+   {
+    "date": "2182-01-09",
+    "weight": 176.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2182-02-14",
+    "weight": 172.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_P1_10039708_24",
+  "split": "test",
+  "template": "P1",
+  "unseen_format": false,
+  "subject_id": "10039708",
+  "pdf": "test/test_P1_10039708_24.pdf",
+  "ground_truth": [
+   {
+    "date": "2138-10-31",
+    "weight": 124.3,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-09-25",
+    "weight": 105.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2142-03-26",
+    "weight": 170.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2142-04-15",
+    "weight": 166.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2142-06-06",
+    "weight": 135.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2142-06-15",
+    "weight": 135.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2142-07-18",
+    "weight": 140.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2142-07-25",
+    "weight": 144.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2142-09-01",
+    "weight": 147.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2143-09-27",
+    "weight": 213.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2144-01-19",
+    "weight": 164.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2144-02-20",
+    "weight": 159.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2144-02-29",
+    "weight": 167.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2144-05-18",
+    "weight": 150.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2144-08-15",
+    "weight": 145.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_P2_10004733_25",
+  "split": "test",
+  "template": "P2",
+  "unseen_format": false,
+  "subject_id": "10004733",
+  "pdf": "test/test_P2_10004733_25.pdf",
+  "ground_truth": [
+   {
+    "date": "2175-02-14",
+    "weight": 222.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2175-04-09",
+    "weight": 226.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2175-12-10",
+    "weight": 236.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_P3_10001725_26",
+  "split": "test",
+  "template": "P3",
+  "unseen_format": false,
+  "subject_id": "10001725",
+  "pdf": "test/test_P3_10001725_26.pdf",
+  "ground_truth": [
+   {
+    "date": "2111-05-16",
+    "weight": 73.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2111-05-19",
+    "weight": 74.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2111-06-22",
+    "weight": 74.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2111-07-24",
+    "weight": 74.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2111-07-28",
+    "weight": 76.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2111-09-06",
+    "weight": 76.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2111-11-07",
+    "weight": 77.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2111-11-13",
+    "weight": 78.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2111-12-05",
+    "weight": 78.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-01-22",
+    "weight": 80.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-02-05",
+    "weight": 75.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-02-20",
+    "weight": 75.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-03-05",
+    "weight": 76.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-03-21",
+    "weight": 74.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-04-19",
+    "weight": 75.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-04-29",
+    "weight": 75.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-05-31",
+    "weight": 78.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-06-21",
+    "weight": 78.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-07-16",
+    "weight": 79.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2112-07-19",
+    "weight": 78.7,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_P4_10002930_27",
+  "split": "test",
+  "template": "P4",
+  "unseen_format": false,
+  "subject_id": "10002930",
+  "pdf": "test/test_P4_10002930_27.pdf",
+  "ground_truth": [
+   {
+    "date": "2197-04-08",
+    "weight": 152.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2198-04-22",
+    "weight": 165.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_P5_10007058_28",
+  "split": "test",
+  "template": "P5",
+  "unseen_format": false,
+  "subject_id": "10007058",
+  "pdf": "test/test_P5_10007058_28.pdf",
+  "ground_truth": [
+   {
+    "date": "2167-06-09",
+    "weight": 81.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2167-11-23",
+    "weight": 79.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2167-11-28",
+    "weight": 81.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2168-05-30",
+    "weight": 77.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2168-06-20",
+    "weight": 77.6,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_P6_10026255_29",
+  "split": "test",
+  "template": "P6",
+  "unseen_format": false,
+  "subject_id": "10026255",
+  "pdf": "test/test_P6_10026255_29.pdf",
+  "ground_truth": [
+   {
+    "date": "2200-03-29",
+    "weight": 83.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2200-06-29",
+    "weight": 86.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2200-09-17",
+    "weight": 79.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2200-10-07",
+    "weight": 76.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2200-12-07",
+    "weight": 79.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2201-06-09",
+    "weight": 77.1,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_P7_10005866_30",
+  "split": "test",
+  "template": "P7",
+  "unseen_format": false,
+  "subject_id": "10005866",
+  "pdf": "test/test_P7_10005866_30.pdf",
+  "ground_truth": [
+   {
+    "date": "2146-02-11",
+    "weight": 150.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2146-06-06",
+    "weight": 124.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2146-06-28",
+    "weight": 151.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2146-08-02",
+    "weight": 142.2,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-03-11",
+    "weight": 140.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-04-03",
+    "weight": 126.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-05-14",
+    "weight": 135.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-06-25",
+    "weight": 142.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-08-27",
+    "weight": 152.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-02-11",
+    "weight": 145.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-06-20",
+    "weight": 150.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-09-13",
+    "weight": 135.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-09-20",
+    "weight": 129.4,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_P8_10037928_31",
+  "split": "test",
+  "template": "P8",
+  "unseen_format": false,
+  "subject_id": "10037928",
+  "pdf": "test/test_P8_10037928_31.pdf",
+  "ground_truth": [
+   {
+    "date": "2176-03-15",
+    "weight": 59.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2176-06-18",
+    "weight": 61.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2176-07-10",
+    "weight": 58.1,
+    "unit": "kg"
+   },
+   {
+    "date": "2176-08-28",
+    "weight": 57.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2176-10-09",
+    "weight": 60.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2177-02-11",
+    "weight": 59.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2177-02-28",
+    "weight": 59.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2177-04-11",
+    "weight": 57.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2177-04-22",
+    "weight": 58.1,
+    "unit": "kg"
+   },
+   {
+    "date": "2177-06-18",
+    "weight": 56.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2177-07-09",
+    "weight": 54.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2177-08-01",
+    "weight": 56.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2177-08-09",
+    "weight": 57.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2177-09-13",
+    "weight": 56.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2177-10-22",
+    "weight": 58.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2177-11-19",
+    "weight": 59.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2178-01-13",
+    "weight": 61.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2178-04-30",
+    "weight": 64.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2178-05-22",
+    "weight": 65.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2178-05-27",
+    "weight": 64.9,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_P9_10003046_32",
+  "split": "test",
+  "template": "P9",
+  "unseen_format": false,
+  "subject_id": "10003046",
+  "pdf": "test/test_P9_10003046_32.pdf",
+  "ground_truth": [
+   {
+    "date": "2153-11-20",
+    "weight": 170.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2154-01-22",
+    "weight": 157.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2154-02-17",
+    "weight": 160.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2154-04-09",
+    "weight": 152.2,
+    "unit": "lb"
+   },
+   {
+    "date": "2154-05-14",
+    "weight": 149.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2154-11-12",
+    "weight": 151.2,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_U1_10004457_33",
+  "split": "test",
+  "template": "U1",
+  "unseen_format": true,
+  "subject_id": "10004457",
+  "pdf": "test/test_U1_10004457_33.pdf",
+  "ground_truth": [
+   {
+    "date": "2142-08-22",
+    "weight": 170.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2142-11-13",
+    "weight": 175.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2143-01-06",
+    "weight": 172.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2143-04-08",
+    "weight": 171.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2144-07-05",
+    "weight": 179.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2145-07-05",
+    "weight": 174.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2146-06-27",
+    "weight": 158.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2147-08-06",
+    "weight": 165.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2147-10-22",
+    "weight": 167.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2147-12-19",
+    "weight": 159.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-09-02",
+    "weight": 159.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-09-14",
+    "weight": 160.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-10-21",
+    "weight": 159.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-01-19",
+    "weight": 167.8,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_U2_10039997_34",
+  "split": "test",
+  "template": "U2",
+  "unseen_format": true,
+  "subject_id": "10039997",
+  "pdf": "test/test_U2_10039997_34.pdf",
+  "ground_truth": [
+   {
+    "date": "2134-07-15",
+    "weight": 91.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2134-08-25",
+    "weight": 91.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2134-09-16",
+    "weight": 91.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2137-03-16",
+    "weight": 81.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2138-01-27",
+    "weight": 90.8,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_U3_10019385_35",
+  "split": "test",
+  "template": "U3",
+  "unseen_format": true,
+  "subject_id": "10019385",
+  "pdf": "test/test_U3_10019385_35.pdf",
+  "ground_truth": [
+   {
+    "date": "2180-03-04",
+    "weight": 97.3,
+    "unit": "lb"
+   },
+   {
+    "date": "2180-02-15",
+    "weight": 214.1,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_U4_10004422_36",
+  "split": "test",
+  "template": "U4",
+  "unseen_format": true,
+  "subject_id": "10004422",
+  "pdf": "test/test_U4_10004422_36.pdf",
+  "ground_truth": [
+   {
+    "date": "2111-06-06",
+    "weight": 138.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2111-11-23",
+    "weight": 140.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_U5_10004235_37",
+  "split": "test",
+  "template": "U5",
+  "unseen_format": true,
+  "subject_id": "10004235",
+  "pdf": "test/test_U5_10004235_37.pdf",
+  "ground_truth": [
+   {
+    "date": "2196-08-03",
+    "weight": 106.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2196-06-29",
+    "weight": 115.1,
+    "unit": "kg"
+   },
+   {
+    "date": "2196-06-21",
+    "weight": 115.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2196-06-15",
+    "weight": 116.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2196-06-05",
+    "weight": 115.5,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_U6_10040025_38",
+  "split": "test",
+  "template": "U6",
+  "unseen_format": true,
+  "subject_id": "10040025",
+  "pdf": "test/test_U6_10040025_38.pdf",
+  "ground_truth": [
+   {
+    "date": "2145-07-04",
+    "weight": 222.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2145-07-24",
+    "weight": 228.8,
+    "unit": "lb"
+   },
+   {
+    "date": "2145-10-20",
+    "weight": 236.3,
+    "unit": "lb"
+   },
+   {
+    "date": "2146-09-28",
+    "weight": 223.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2147-06-17",
+    "weight": 199.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2147-08-03",
+    "weight": 205.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2147-11-09",
+    "weight": 188.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2147-12-05",
+    "weight": 200.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2147-12-29",
+    "weight": 212.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2147-12-30",
+    "weight": 187.6,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_U7_10017492_39",
+  "split": "test",
+  "template": "U7",
+  "unseen_format": true,
+  "subject_id": "10017492",
+  "pdf": "test/test_U7_10017492_39.pdf",
+  "ground_truth": [
+   {
+    "date": "2114-06-29",
+    "weight": 118.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2116-03-27",
+    "weight": 111.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_U8_10027602_40",
+  "split": "test",
+  "template": "U8",
+  "unseen_format": true,
+  "subject_id": "10027602",
+  "pdf": "test/test_U8_10027602_40.pdf",
+  "ground_truth": [
+   {
+    "date": "2201-06-03",
+    "weight": 68.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2201-08-07",
+    "weight": 69.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2202-01-16",
+    "weight": 56.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2202-02-20",
+    "weight": 55.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2202-02-21",
+    "weight": 55.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2202-05-27",
+    "weight": 53.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2202-08-26",
+    "weight": 54.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2202-11-20",
+    "weight": 55.7,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_U9_10008287_41",
+  "split": "test",
+  "template": "U9",
+  "unseen_format": true,
+  "subject_id": "10008287",
+  "pdf": "test/test_U9_10008287_41.pdf",
+  "ground_truth": [
+   {
+    "date": "2144-11-10",
+    "weight": 166.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2145-11-09",
+    "weight": 166.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_U10_10018328_42",
+  "split": "test",
+  "template": "U10",
+  "unseen_format": true,
+  "subject_id": "10018328",
+  "pdf": "test/test_U10_10018328_42.pdf",
+  "ground_truth": [
+   {
+    "date": "2154-02-05",
+    "weight": 61.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2154-03-21",
+    "weight": 59.9,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_U11_10023117_43",
+  "split": "test",
+  "template": "U11",
+  "unseen_format": true,
+  "subject_id": "10023117",
+  "pdf": "test/test_U11_10023117_43.pdf",
+  "ground_truth": [
+   {
+    "date": "2174-06-08",
+    "weight": 78.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2174-06-20",
+    "weight": 73.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2174-09-09",
+    "weight": 77.1,
+    "unit": "kg"
+   },
+   {
+    "date": "2174-11-28",
+    "weight": 80.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2174-12-16",
+    "weight": 78.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2175-02-09",
+    "weight": 73.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2175-03-17",
+    "weight": 74.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2175-04-12",
+    "weight": 76.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2175-05-01",
+    "weight": 75.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2175-06-01",
+    "weight": 75.3,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_U12_10023117_44",
+  "split": "test",
+  "template": "U12",
+  "unseen_format": true,
+  "subject_id": "10023117",
+  "pdf": "test/test_U12_10023117_44.pdf",
+  "ground_truth": [
+   {
+    "date": "2171-11-28",
+    "weight": 84.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2172-10-12",
+    "weight": 89.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2173-03-09",
+    "weight": 88.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2173-04-16",
+    "weight": 87.1,
+    "unit": "kg"
+   },
+   {
+    "date": "2173-04-20",
+    "weight": 83.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2173-05-03",
+    "weight": 84.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2173-07-29",
+    "weight": 84.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2173-09-07",
+    "weight": 84.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2174-03-21",
+    "weight": 77.1,
+    "unit": "kg"
+   },
+   {
+    "date": "2174-04-21",
+    "weight": 77.6,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_U13_10005909_45",
+  "split": "test",
+  "template": "U13",
+  "unseen_format": true,
+  "subject_id": "10005909",
+  "pdf": "test/test_U13_10005909_45.pdf",
+  "ground_truth": [
+   {
+    "date": "2144-10-29",
+    "weight": 95.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2144-11-15",
+    "weight": 108.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2144-12-10",
+    "weight": 112.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2145-01-03",
+    "weight": 112.9,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_U14_10019003_46",
+  "split": "test",
+  "template": "U14",
+  "unseen_format": true,
+  "subject_id": "10019003",
+  "pdf": "test/test_U14_10019003_46.pdf",
+  "ground_truth": [
+   {
+    "date": "2154-02-03",
+    "weight": 170.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2154-05-03",
+    "weight": 169.8,
+    "unit": "lb"
+   },
+   {
+    "date": "2154-07-05",
+    "weight": 172.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2154-08-17",
+    "weight": 167.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2154-10-30",
+    "weight": 166.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2154-12-04",
+    "weight": 166.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2155-03-23",
+    "weight": 166.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2155-03-27",
+    "weight": 167.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2155-04-03",
+    "weight": 165.3,
+    "unit": "lb"
+   },
+   {
+    "date": "2155-04-10",
+    "weight": 165.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2155-04-17",
+    "weight": 166.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2155-04-20",
+    "weight": 166.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2155-04-24",
+    "weight": 164.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2155-04-25",
+    "weight": 165.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2155-04-26",
+    "weight": 166.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2155-04-27",
+    "weight": 167.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2155-05-01",
+    "weight": 161.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2155-05-08",
+    "weight": 160.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2155-05-17",
+    "weight": 161.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2155-05-21",
+    "weight": 166.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2155-05-22",
+    "weight": 167.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2155-05-23",
+    "weight": 165.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_P1_10023239_47",
+  "split": "test",
+  "template": "P1",
+  "unseen_format": false,
+  "subject_id": "10023239",
+  "pdf": "test/test_P1_10023239_47.pdf",
+  "ground_truth": [
+   {
+    "date": "2141-01-23",
+    "weight": 159.3,
+    "unit": "lb"
+   },
+   {
+    "date": "2141-01-30",
+    "weight": 163.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2141-03-20",
+    "weight": 168.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2141-04-24",
+    "weight": 173.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2141-06-05",
+    "weight": 178.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2141-06-20",
+    "weight": 177.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2141-08-07",
+    "weight": 177.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2141-09-09",
+    "weight": 180.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2141-10-01",
+    "weight": 181.7,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_P2_10019003_48",
+  "split": "test",
+  "template": "P2",
+  "unseen_format": false,
+  "subject_id": "10019003",
+  "pdf": "test/test_P2_10019003_48.pdf",
+  "ground_truth": [
+   {
+    "date": "2149-05-14",
+    "weight": 229.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-11-26",
+    "weight": 228.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-11-29",
+    "weight": 222.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2152-11-23",
+    "weight": 217.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2152-12-07",
+    "weight": 217.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-01-19",
+    "weight": 209.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-02-23",
+    "weight": 208.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-04-13",
+    "weight": 187.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-05-02",
+    "weight": 177.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-05-10",
+    "weight": 180.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-05-24",
+    "weight": 176.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-06-27",
+    "weight": 173.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-07-18",
+    "weight": 175.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-08-24",
+    "weight": 173.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-09-22",
+    "weight": 171.2,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-09-26",
+    "weight": 172.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-10-06",
+    "weight": 172.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-10-17",
+    "weight": 170.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-11-15",
+    "weight": 164.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-12-22",
+    "weight": 168.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-12-27",
+    "weight": 168.5,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_P3_10000032_49",
+  "split": "test",
+  "template": "P3",
+  "unseen_format": false,
+  "subject_id": "10000032",
+  "pdf": "test/test_P3_10000032_49.pdf",
+  "ground_truth": [
+   {
+    "date": "2180-04-27",
+    "weight": 42.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2180-05-07",
+    "weight": 41.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2180-05-25",
+    "weight": 43.1,
+    "unit": "kg"
+   },
+   {
+    "date": "2180-06-01",
+    "weight": 43.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2180-06-22",
+    "weight": 44.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2180-06-27",
+    "weight": 44.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2180-06-30",
+    "weight": 41.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2180-07-09",
+    "weight": 43.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2180-08-06",
+    "weight": 42.2,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_P4_10001725_50",
+  "split": "test",
+  "template": "P4",
+  "unseen_format": false,
+  "subject_id": "10001725",
+  "pdf": "test/test_P4_10001725_50.pdf",
+  "ground_truth": [
+   {
+    "date": "2112-08-20",
+    "weight": 172.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2112-09-03",
+    "weight": 175.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2112-10-02",
+    "weight": 176.8,
+    "unit": "lb"
+   },
+   {
+    "date": "2112-10-11",
+    "weight": 176.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2112-11-15",
+    "weight": 173.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-01-17",
+    "weight": 171.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-04-09",
+    "weight": 164.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-04-29",
+    "weight": 166.3,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-05-27",
+    "weight": 166.2,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-09-10",
+    "weight": 164.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-10-08",
+    "weight": 172.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-11-11",
+    "weight": 168.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-12-23",
+    "weight": 162.8,
+    "unit": "lb"
+   },
+   {
+    "date": "2114-03-02",
+    "weight": 153.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2114-04-28",
+    "weight": 148.3,
+    "unit": "lb"
+   },
+   {
+    "date": "2114-05-19",
+    "weight": 150.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2114-05-29",
+    "weight": 148.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2114-06-12",
+    "weight": 149.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2114-08-28",
+    "weight": 146.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2114-09-21",
+    "weight": 145.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_P5_10022880_51",
+  "split": "test",
+  "template": "P5",
+  "unseen_format": false,
+  "subject_id": "10022880",
+  "pdf": "test/test_P5_10022880_51.pdf",
+  "ground_truth": [
+   {
+    "date": "2176-05-04",
+    "weight": 90.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2177-03-12",
+    "weight": 95.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2177-03-26",
+    "weight": 95.3,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_P6_10006580_52",
+  "split": "test",
+  "template": "P6",
+  "unseen_format": false,
+  "subject_id": "10006580",
+  "pdf": "test/test_P6_10006580_52.pdf",
+  "ground_truth": [
+   {
+    "date": "2137-02-23",
+    "weight": 76.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2137-03-16",
+    "weight": 76.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2137-03-18",
+    "weight": 76.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2137-08-04",
+    "weight": 76.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2137-08-19",
+    "weight": 76.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2137-10-14",
+    "weight": 76.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2137-11-16",
+    "weight": 78.0,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_P7_10035631_53",
+  "split": "test",
+  "template": "P7",
+  "unseen_format": false,
+  "subject_id": "10035631",
+  "pdf": "test/test_P7_10035631_53.pdf",
+  "ground_truth": [
+   {
+    "date": "2113-02-04",
+    "weight": 174.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-02-08",
+    "weight": 173.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-02-15",
+    "weight": 173.2,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-02-22",
+    "weight": 173.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-03-01",
+    "weight": 172.8,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-03-08",
+    "weight": 170.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-03-15",
+    "weight": 173.2,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-03-22",
+    "weight": 173.2,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-04-05",
+    "weight": 176.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-04-19",
+    "weight": 179.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-05-06",
+    "weight": 179.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-05-20",
+    "weight": 181.3,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-06-10",
+    "weight": 175.8,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-06-17",
+    "weight": 177.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-07-01",
+    "weight": 175.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-07-17",
+    "weight": 190.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-07-23",
+    "weight": 175.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-08-01",
+    "weight": 179.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-08-20",
+    "weight": 181.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-08-26",
+    "weight": 181.4,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_P8_10014729_54",
+  "split": "test",
+  "template": "P8",
+  "unseen_format": false,
+  "subject_id": "10014729",
+  "pdf": "test/test_P8_10014729_54.pdf",
+  "ground_truth": [
+   {
+    "date": "2125-02-13",
+    "weight": 72.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2125-02-22",
+    "weight": 72.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2125-03-16",
+    "weight": 68.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2125-04-05",
+    "weight": 68.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2125-04-19",
+    "weight": 68.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2125-04-26",
+    "weight": 68.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2126-01-24",
+    "weight": 72.6,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_P9_10014354_55",
+  "split": "test",
+  "template": "P9",
+  "unseen_format": false,
+  "subject_id": "10014354",
+  "pdf": "test/test_P9_10014354_55.pdf",
+  "ground_truth": [
+   {
+    "date": "2148-04-25",
+    "weight": 268.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-05-09",
+    "weight": 266.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-05-11",
+    "weight": 263.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-06-06",
+    "weight": 266.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-06-24",
+    "weight": 267.3,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-07-18",
+    "weight": 273.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-08-08",
+    "weight": 253.2,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-08-15",
+    "weight": 257.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-08-22",
+    "weight": 274.2,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-09-14",
+    "weight": 265.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-09-21",
+    "weight": 263.8,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-09-28",
+    "weight": 266.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-10-24",
+    "weight": 270.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-12-07",
+    "weight": 273.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2148-12-21",
+    "weight": 278.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-01-25",
+    "weight": 274.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-02-05",
+    "weight": 282.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-02-27",
+    "weight": 287.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-03-13",
+    "weight": 281.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-03-15",
+    "weight": 280.2,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-03-16",
+    "weight": 282.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_U1_10012853_56",
+  "split": "test",
+  "template": "U1",
+  "unseen_format": true,
+  "subject_id": "10012853",
+  "pdf": "test/test_U1_10012853_56.pdf",
+  "ground_truth": [
+   {
+    "date": "2175-04-05",
+    "weight": 165.3,
+    "unit": "lb"
+   },
+   {
+    "date": "2176-06-07",
+    "weight": 143.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2176-11-26",
+    "weight": 170.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2177-01-05",
+    "weight": 149.8,
+    "unit": "lb"
+   },
+   {
+    "date": "2177-02-12",
+    "weight": 149.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2177-11-03",
+    "weight": 152.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2178-11-04",
+    "weight": 162.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_U2_10010867_57",
+  "split": "test",
+  "template": "U2",
+  "unseen_format": true,
+  "subject_id": "10010867",
+  "pdf": "test/test_U2_10010867_57.pdf",
+  "ground_truth": [
+   {
+    "date": "2148-01-26",
+    "weight": 96.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2148-03-08",
+    "weight": 95.3,
+    "unit": "kg"
+   }
+  ]
+ },
+ {
+  "doc": "test_U3_10011398_58",
+  "split": "test",
+  "template": "U3",
+  "unseen_format": true,
+  "subject_id": "10011398",
+  "pdf": "test/test_U3_10011398_58.pdf",
+  "ground_truth": [
+   {
+    "date": "2147-07-24",
+    "weight": 136.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2147-06-25",
+    "weight": 139.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2147-03-26",
+    "weight": 136.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2147-01-22",
+    "weight": 127.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2146-12-01",
+    "weight": 135.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2146-06-02",
+    "weight": 141.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2146-05-28",
+    "weight": 141.0,
+    "unit": "lb"
+   }
+  ]
+ },
+ {
+  "doc": "test_U4_10020306_59",
+  "split": "test",
+  "template": "U4",
+  "unseen_format": true,
+  "subject_id": "10020306",
+  "pdf": "test/test_U4_10020306_59.pdf",
+  "ground_truth": [
+   {
+    "date": "2132-09-09",
+    "weight": 187.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2132-12-13",
+    "weight": 182.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2133-02-07",
+    "weight": 174.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2133-05-10",
+    "weight": 173.3,
+    "unit": "lb"
+   },
+   {
+    "date": "2133-06-06",
+    "weight": 173.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2133-06-20",
+    "weight": 172.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2133-06-27",
+    "weight": 173.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2133-08-08",
+    "weight": 174.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2133-09-05",
+    "weight": 171.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2133-09-12",
+    "weight": 175.2,
+    "unit": "lb"
+   },
+   {
+    "date": "2133-09-22",
+    "weight": 175.2,
+    "unit": "lb"
+   },
+   {
+    "date": "2133-10-18",
+    "weight": 175.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2133-12-29",
+    "weight": 174.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2134-01-30",
+    "weight": 172.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2134-04-17",
+    "weight": 170.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2134-04-24",
+    "weight": 170.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2134-05-10",
+    "weight": 172.2,
+    "unit": "lb"
+   },
+   {
+    "date": "2134-07-17",
+    "weight": 168.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2134-08-14",
+    "weight": 171.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2134-08-28",
+    "weight": 171.0,
+    "unit": "lb"
+   }
+  ]
+ }
+]

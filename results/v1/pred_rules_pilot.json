@@ -1,0 +1,200 @@
+[
+ {
+  "doc": "pilot_T1_10038081",
+  "pairs": [
+   {
+    "date": "2115-09-27",
+    "weight": 140.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [],
+  "seconds": 0.0
+ },
+ {
+  "doc": "pilot_T1_10035185",
+  "pairs": [
+   {
+    "date": "2120-05-12",
+    "weight": 225.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [],
+  "seconds": 0.0
+ },
+ {
+  "doc": "pilot_T1_10015931",
+  "pairs": [
+   {
+    "date": "2176-09-26",
+    "weight": 135.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2176-11-07",
+    "weight": 133.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2176-11-14",
+    "weight": 130.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2176-12-11",
+    "weight": 130.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2176-12-17",
+    "weight": 137.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2177-01-07",
+    "weight": 115.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2177-01-09",
+    "weight": 117.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2177-02-20",
+    "weight": 122.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [],
+  "seconds": 0.0
+ },
+ {
+  "doc": "pilot_T2_10003046",
+  "pairs": [
+   {
+    "date": "2153-11-20",
+    "weight": 170.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2154-01-22",
+    "weight": 157.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2154-02-17",
+    "weight": 160.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2154-04-09",
+    "weight": 152.2,
+    "unit": "lb"
+   },
+   {
+    "date": "2154-05-14",
+    "weight": 149.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2154-11-12",
+    "weight": 151.2,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [],
+  "seconds": 0.0
+ },
+ {
+  "doc": "pilot_T2_10029291",
+  "pairs": [
+   {
+    "date": "2123-04-05",
+    "weight": 113.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [],
+  "seconds": 0.0
+ },
+ {
+  "doc": "pilot_T2_10004457",
+  "pairs": [
+   {
+    "date": "2143-01-06",
+    "weight": 172.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2143-04-08",
+    "weight": 171.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2144-07-05",
+    "weight": 179.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2145-07-05",
+    "weight": 174.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [],
+  "seconds": 0.0
+ },
+ {
+  "doc": "pilot_T3_10027445",
+  "pairs": [
+   {
+    "date": "2142-03-28",
+    "weight": 101.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2142-03-28",
+    "weight": 101.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2145-12-08",
+    "weight": 115.7,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [],
+  "seconds": 0.0
+ },
+ {
+  "doc": "pilot_T3_10009049",
+  "pairs": [
+   {
+    "date": "2174-07-20",
+    "weight": 65.8,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [],
+  "seconds": 0.0
+ },
+ {
+  "doc": "pilot_T3_10029484",
+  "pairs": [
+   {
+    "date": "2159-11-14",
+    "weight": 89.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2159-11-14",
+    "weight": 87.1,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [],
+  "seconds": 0.0
+ }
+]

@@ -1,0 +1,1531 @@
+[
+ {
+  "doc": "pilot_P1_10023239_01",
+  "pairs": [
+   {
+    "date": "2139-06-08",
+    "weight": 161.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2139-06-21",
+    "weight": 164.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2139-10-17",
+    "weight": 170.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-09-18",
+    "weight": 159.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-09-19",
+    "weight": 160.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-10-11",
+    "weight": 152.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-11-05",
+    "weight": 150.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-11-14",
+    "weight": 146.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-11-27",
+    "weight": 145.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "161 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9943,
+    "choices": [
+     "2139-06-08"
+    ],
+    "p": [
+     0.995
+    ],
+    "seconds": 10.83
+   },
+   {
+    "weight": "164 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9943,
+    "choices": [
+     "2139-06-21"
+    ],
+    "p": [
+     0.9967
+    ],
+    "seconds": 8.79
+   },
+   {
+    "weight": "170 lb",
+    "occurrences": 1,
+    "gate_yes": 0.994,
+    "choices": [
+     "2139-10-17"
+    ],
+    "p": [
+     0.9946
+    ],
+    "seconds": 8.95
+   },
+   {
+    "weight": "159 lb",
+    "occurrences": 1,
+    "gate_yes": 0.995,
+    "choices": [
+     "2140-09-18"
+    ],
+    "p": [
+     0.9956
+    ],
+    "seconds": 9.21
+   },
+   {
+    "weight": "160 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9733,
+    "choices": [
+     "2140-09-19"
+    ],
+    "p": [
+     0.9935
+    ],
+    "seconds": 9.45
+   },
+   {
+    "weight": "152 lb",
+    "occurrences": 1,
+    "gate_yes": 0.991,
+    "choices": [
+     "2140-10-11"
+    ],
+    "p": [
+     0.9951
+    ],
+    "seconds": 9.46
+   },
+   {
+    "weight": "150 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9898,
+    "choices": [
+     "2140-11-05"
+    ],
+    "p": [
+     0.9952
+    ],
+    "seconds": 9.69
+   },
+   {
+    "weight": "146 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9963,
+    "choices": [
+     "2140-11-14"
+    ],
+    "p": [
+     0.9953
+    ],
+    "seconds": 9.82
+   },
+   {
+    "weight": "145 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9942,
+    "choices": [
+     "2140-11-27"
+    ],
+    "p": [
+     0.993
+    ],
+    "seconds": 9.67
+   }
+  ],
+  "seconds": 85.88
+ },
+ {
+  "doc": "pilot_P2_10020740_02",
+  "pairs": [
+   {
+    "date": "2150-05-21",
+    "weight": 180.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-06-18",
+    "weight": 172.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-05-21",
+    "weight": 172.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-07-10",
+    "weight": 166.9,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "180.4 lb",
+    "occurrences": 2,
+    "gate_yes": 0.9792,
+    "choices": [
+     "2150-05-21",
+     "NONE"
+    ],
+    "p": [
+     0.9899,
+     0.0045
+    ],
+    "seconds": 8.92
+   },
+   {
+    "weight": "168 lb",
+    "occurrences": 1,
+    "gate_yes": 0.0351,
+    "choices": [
+     "NONE (gate)"
+    ],
+    "seconds": 1.91
+   },
+   {
+    "weight": "172.7 lb",
+    "occurrences": 2,
+    "gate_yes": 0.9892,
+    "choices": [
+     "2150-06-18",
+     "2150-05-21"
+    ],
+    "p": [
+     0.9338,
+     0.0581
+    ],
+    "seconds": 7.16
+   },
+   {
+    "weight": "-7.7 lb",
+    "occurrences": 1,
+    "gate_yes": 0.0128,
+    "choices": [
+     "NONE (gate)"
+    ],
+    "seconds": 2.07
+   },
+   {
+    "weight": "166.9 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9915,
+    "choices": [
+     "2150-07-10"
+    ],
+    "p": [
+     0.7671
+    ],
+    "seconds": 7.09
+   },
+   {
+    "weight": "-5.8 lb",
+    "occurrences": 1,
+    "gate_yes": 0.0388,
+    "choices": [
+     "NONE (gate)"
+    ],
+    "seconds": 1.93
+   }
+  ],
+  "seconds": 29.07
+ },
+ {
+  "doc": "pilot_P3_10002495_03",
+  "pairs": [
+   {
+    "date": "2140-11-01",
+    "weight": 72.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2140-12-11",
+    "weight": 72.6,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "72.6 kg",
+    "occurrences": 2,
+    "gate_yes": 0.9909,
+    "choices": [
+     "2140-11-01",
+     "2140-12-11"
+    ],
+    "p": [
+     0.6065,
+     0.309
+    ],
+    "seconds": 5.98
+   }
+  ],
+  "seconds": 5.98
+ },
+ {
+  "doc": "pilot_P4_10014354_04",
+  "pairs": [
+   {
+    "date": "2149-04-13",
+    "weight": 279.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-06-05",
+    "weight": 280.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-06-18",
+    "weight": 275.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-06-19",
+    "weight": 280.3,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-06-29",
+    "weight": 273.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-08-09",
+    "weight": 270.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-08-17",
+    "weight": 264.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-09-18",
+    "weight": 264.2,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-10-10",
+    "weight": 265.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-10-30",
+    "weight": 271.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-11-22",
+    "weight": 238.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2149-12-11",
+    "weight": 278.3,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-02-05",
+    "weight": 274.8,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-03-01",
+    "weight": 296.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-03-14",
+    "weight": 289.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-04-05",
+    "weight": 286.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-04-10",
+    "weight": 287.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-04-19",
+    "weight": 288.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-04-25",
+    "weight": 286.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-05-01",
+    "weight": 278.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-05-10",
+    "weight": 280.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-05-17",
+    "weight": 291.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "279 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9947,
+    "choices": [
+     "2149-04-13"
+    ],
+    "p": [
+     0.9871
+    ],
+    "seconds": 20.91
+   },
+   {
+    "weight": "280.9 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9973,
+    "choices": [
+     "2149-06-05"
+    ],
+    "p": [
+     0.9865
+    ],
+    "seconds": 11.2
+   },
+   {
+    "weight": "275 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9946,
+    "choices": [
+     "2149-06-18"
+    ],
+    "p": [
+     0.9645
+    ],
+    "seconds": 11.42
+   },
+   {
+    "weight": "280.3 lb",
+    "occurrences": 1,
+    "gate_yes": 0.997,
+    "choices": [
+     "2149-06-19"
+    ],
+    "p": [
+     0.9741
+    ],
+    "seconds": 12.41
+   },
+   {
+    "weight": "273.9 lb",
+    "occurrences": 1,
+    "gate_yes": 0.997,
+    "choices": [
+     "2149-06-29"
+    ],
+    "p": [
+     0.9776
+    ],
+    "seconds": 12.03
+   },
+   {
+    "weight": "270.4 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9971,
+    "choices": [
+     "2149-08-09"
+    ],
+    "p": [
+     0.961
+    ],
+    "seconds": 12.54
+   },
+   {
+    "weight": "264.7 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9954,
+    "choices": [
+     "2149-08-17"
+    ],
+    "p": [
+     0.9436
+    ],
+    "seconds": 12.25
+   },
+   {
+    "weight": "264.2 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9964,
+    "choices": [
+     "2149-09-18"
+    ],
+    "p": [
+     0.9514
+    ],
+    "seconds": 12.79
+   },
+   {
+    "weight": "265 lb",
+    "occurrences": 1,
+    "gate_yes": 0.994,
+    "choices": [
+     "2149-10-10"
+    ],
+    "p": [
+     0.9606
+    ],
+    "seconds": 13.72
+   },
+   {
+    "weight": "271.9 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9964,
+    "choices": [
+     "2149-10-30"
+    ],
+    "p": [
+     0.9717
+    ],
+    "seconds": 12.89
+   },
+   {
+    "weight": "238.1 lb",
+    "occurrences": 1,
+    "gate_yes": 0.997,
+    "choices": [
+     "2149-11-22"
+    ],
+    "p": [
+     0.9887
+    ],
+    "seconds": 12.88
+   },
+   {
+    "weight": "278.3 lb",
+    "occurrences": 1,
+    "gate_yes": 0.997,
+    "choices": [
+     "2149-12-11"
+    ],
+    "p": [
+     0.9787
+    ],
+    "seconds": 13.24
+   },
+   {
+    "weight": "274.8 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9956,
+    "choices": [
+     "2150-02-05"
+    ],
+    "p": [
+     0.9862
+    ],
+    "seconds": 12.64
+   },
+   {
+    "weight": "296 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9961,
+    "choices": [
+     "2150-03-01"
+    ],
+    "p": [
+     0.9651
+    ],
+    "seconds": 12.94
+   },
+   {
+    "weight": "289.5 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9974,
+    "choices": [
+     "2150-03-14"
+    ],
+    "p": [
+     0.9744
+    ],
+    "seconds": 14.0
+   },
+   {
+    "weight": "286.5 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9965,
+    "choices": [
+     "2150-04-05"
+    ],
+    "p": [
+     0.9728
+    ],
+    "seconds": 14.88
+   },
+   {
+    "weight": "287.5 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9967,
+    "choices": [
+     "2150-04-10"
+    ],
+    "p": [
+     0.9689
+    ],
+    "seconds": 14.86
+   },
+   {
+    "weight": "288.7 lb",
+    "occurrences": 1,
+    "gate_yes": 0.997,
+    "choices": [
+     "2150-04-19"
+    ],
+    "p": [
+     0.9347
+    ],
+    "seconds": 13.16
+   },
+   {
+    "weight": "286.9 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9964,
+    "choices": [
+     "2150-04-25"
+    ],
+    "p": [
+     0.9713
+    ],
+    "seconds": 14.95
+   },
+   {
+    "weight": "278 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9953,
+    "choices": [
+     "2150-05-01"
+    ],
+    "p": [
+     0.9639
+    ],
+    "seconds": 14.45
+   },
+   {
+    "weight": "280 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9922,
+    "choices": [
+     "2150-05-10"
+    ],
+    "p": [
+     0.9051
+    ],
+    "seconds": 13.81
+   },
+   {
+    "weight": "291 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9967,
+    "choices": [
+     "2150-05-17"
+    ],
+    "p": [
+     0.9643
+    ],
+    "seconds": 15.31
+   }
+  ],
+  "seconds": 299.27
+ },
+ {
+  "doc": "pilot_P5_10002428_05",
+  "pairs": [
+   {
+    "date": "2154-08-12",
+    "weight": 44.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2155-09-10",
+    "weight": 44.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2154-09-04",
+    "weight": 45.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2155-03-14",
+    "weight": 45.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2155-04-18",
+    "weight": 45.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2154-10-18",
+    "weight": 45.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2155-01-31",
+    "weight": 46.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2155-08-01",
+    "weight": 44.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2155-08-12",
+    "weight": 44.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2155-10-17",
+    "weight": 45.6,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "44.5 kg",
+    "occurrences": 2,
+    "gate_yes": 0.993,
+    "choices": [
+     "2154-08-12",
+     "2155-09-10"
+    ],
+    "p": [
+     0.7314,
+     0.1986
+    ],
+    "seconds": 19.96
+   },
+   {
+    "weight": "45.8 kg",
+    "occurrences": 3,
+    "gate_yes": 0.9939,
+    "choices": [
+     "2154-09-04",
+     "2155-03-14",
+     "2155-04-18"
+    ],
+    "p": [
+     0.6343,
+     0.252,
+     0.0656
+    ],
+    "seconds": 13.68
+   },
+   {
+    "weight": "45.4 kg",
+    "occurrences": 1,
+    "gate_yes": 0.9947,
+    "choices": [
+     "2154-10-18"
+    ],
+    "p": [
+     0.9521
+    ],
+    "seconds": 15.61
+   },
+   {
+    "weight": "46.7 kg",
+    "occurrences": 1,
+    "gate_yes": 0.9962,
+    "choices": [
+     "2155-01-31"
+    ],
+    "p": [
+     0.9499
+    ],
+    "seconds": 13.96
+   },
+   {
+    "weight": "44.9 kg",
+    "occurrences": 1,
+    "gate_yes": 0.9963,
+    "choices": [
+     "2155-08-01"
+    ],
+    "p": [
+     0.9768
+    ],
+    "seconds": 14.53
+   },
+   {
+    "weight": "44 kg",
+    "occurrences": 1,
+    "gate_yes": 0.9956,
+    "choices": [
+     "2155-08-12"
+    ],
+    "p": [
+     0.9824
+    ],
+    "seconds": 15.79
+   },
+   {
+    "weight": "45.6 kg",
+    "occurrences": 1,
+    "gate_yes": 0.9971,
+    "choices": [
+     "2155-10-17"
+    ],
+    "p": [
+     0.9805
+    ],
+    "seconds": 14.29
+   }
+  ],
+  "seconds": 107.83
+ },
+ {
+  "doc": "pilot_P6_10037928_06",
+  "pairs": [
+   {
+    "date": "2178-07-15",
+    "weight": 65.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2178-09-23",
+    "weight": 67.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2178-10-14",
+    "weight": 67.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2178-09-29",
+    "weight": 65.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2178-12-02",
+    "weight": 66.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-01-01",
+    "weight": 59.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-06-15",
+    "weight": 59.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-01-27",
+    "weight": 61.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-03-10",
+    "weight": 62.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-03-27",
+    "weight": 59.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-04-09",
+    "weight": 59.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-05-15",
+    "weight": 59.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-06-29",
+    "weight": 58.1,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-07-23",
+    "weight": 57.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-07-31",
+    "weight": 55.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-08-14",
+    "weight": 55.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-08-21",
+    "weight": 55.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-09-08",
+    "weight": 56.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2179-09-18",
+    "weight": 56.2,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "65.3 kg",
+    "occurrences": 1,
+    "gate_yes": 0.9962,
+    "choices": [
+     "2178-07-15"
+    ],
+    "p": [
+     0.9908
+    ],
+    "seconds": 26.02
+   },
+   {
+    "weight": "67.6 kg",
+    "occurrences": 3,
+    "gate_yes": 0.9965,
+    "choices": [
+     "2178-09-23",
+     "2178-10-14",
+     "NONE"
+    ],
+    "p": [
+     0.8812,
+     0.0455,
+     0.0378
+    ],
+    "seconds": 15.72
+   },
+   {
+    "weight": "65.8 kg",
+    "occurrences": 1,
+    "gate_yes": 0.9961,
+    "choices": [
+     "2178-09-29"
+    ],
+    "p": [
+     0.9939
+    ],
+    "seconds": 17.07
+   },
+   {
+    "weight": "66.2 kg",
+    "occurrences": 1,
+    "gate_yes": 0.997,
+    "choices": [
+     "2178-12-02"
+    ],
+    "p": [
+     0.993
+    ],
+    "seconds": 15.01
+   },
+   {
+    "weight": "59 kg",
+    "occurrences": 2,
+    "gate_yes": 0.9909,
+    "choices": [
+     "2179-01-01",
+     "2179-06-15"
+    ],
+    "p": [
+     0.7572,
+     0.2123
+    ],
+    "seconds": 16.21
+   },
+   {
+    "weight": "61.2 kg",
+    "occurrences": 1,
+    "gate_yes": 0.9962,
+    "choices": [
+     "2179-01-27"
+    ],
+    "p": [
+     0.995
+    ],
+    "seconds": 17.1
+   },
+   {
+    "weight": "62.6 kg",
+    "occurrences": 1,
+    "gate_yes": 0.9962,
+    "choices": [
+     "2179-03-10"
+    ],
+    "p": [
+     0.9885
+    ],
+    "seconds": 19.42
+   },
+   {
+    "weight": "59.2 kg",
+    "occurrences": 1,
+    "gate_yes": 0.9958,
+    "choices": [
+     "2179-03-27"
+    ],
+    "p": [
+     0.9936
+    ],
+    "seconds": 17.37
+   },
+   {
+    "weight": "59.4 kg",
+    "occurrences": 1,
+    "gate_yes": 0.9943,
+    "choices": [
+     "2179-04-09"
+    ],
+    "p": [
+     0.9916
+    ],
+    "seconds": 16.13
+   },
+   {
+    "weight": "59.9 kg",
+    "occurrences": 1,
+    "gate_yes": 0.9946,
+    "choices": [
+     "2179-05-15"
+    ],
+    "p": [
+     0.9931
+    ],
+    "seconds": 15.68
+   },
+   {
+    "weight": "58.1 kg",
+    "occurrences": 1,
+    "gate_yes": 0.9961,
+    "choices": [
+     "2179-06-29"
+    ],
+    "p": [
+     0.9963
+    ],
+    "seconds": 15.56
+   },
+   {
+    "weight": "57.6 kg",
+    "occurrences": 1,
+    "gate_yes": 0.9956,
+    "choices": [
+     "2179-07-23"
+    ],
+    "p": [
+     0.9979
+    ],
+    "seconds": 15.3
+   },
+   {
+    "weight": "55.3 kg",
+    "occurrences": 2,
+    "gate_yes": 0.9958,
+    "choices": [
+     "2179-07-31",
+     "2179-08-14"
+    ],
+    "p": [
+     0.8742,
+     0.0932
+    ],
+    "seconds": 14.25
+   },
+   {
+    "weight": "55.7 kg",
+    "occurrences": 1,
+    "gate_yes": 0.9975,
+    "choices": [
+     "2179-08-21"
+    ],
+    "p": [
+     0.9949
+    ],
+    "seconds": 15.11
+   },
+   {
+    "weight": "56.7 kg",
+    "occurrences": 1,
+    "gate_yes": 0.9962,
+    "choices": [
+     "2179-09-08"
+    ],
+    "p": [
+     0.9925
+    ],
+    "seconds": 17.4
+   },
+   {
+    "weight": "56.2 kg",
+    "occurrences": 1,
+    "gate_yes": 0.9969,
+    "choices": [
+     "2179-09-18"
+    ],
+    "p": [
+     0.9927
+    ],
+    "seconds": 15.15
+   }
+  ],
+  "seconds": 268.49
+ },
+ {
+  "doc": "pilot_P7_10004720_07",
+  "pairs": [
+   {
+    "date": "2184-09-14",
+    "weight": 157.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2186-09-05",
+    "weight": 157.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2184-12-27",
+    "weight": 152.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2185-02-14",
+    "weight": 162.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2185-04-13",
+    "weight": 159.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2185-07-04",
+    "weight": 159.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2185-11-14",
+    "weight": 154.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2186-03-15",
+    "weight": 160.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2186-11-10",
+    "weight": 147.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "157 lb",
+    "occurrences": 2,
+    "gate_yes": 0.9949,
+    "choices": [
+     "2184-09-14",
+     "2186-09-05"
+    ],
+    "p": [
+     0.8173,
+     0.1193
+    ],
+    "seconds": 17.18
+   },
+   {
+    "weight": "152.1 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9963,
+    "choices": [
+     "2184-12-27"
+    ],
+    "p": [
+     0.9888
+    ],
+    "seconds": 12.43
+   },
+   {
+    "weight": "162 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9955,
+    "choices": [
+     "2185-02-14"
+    ],
+    "p": [
+     0.9889
+    ],
+    "seconds": 12.53
+   },
+   {
+    "weight": "159 lb",
+    "occurrences": 2,
+    "gate_yes": 0.9959,
+    "choices": [
+     "2185-04-13",
+     "2185-07-04"
+    ],
+    "p": [
+     0.7947,
+     0.1269
+    ],
+    "seconds": 12.03
+   },
+   {
+    "weight": "154 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9946,
+    "choices": [
+     "2185-11-14"
+    ],
+    "p": [
+     0.9862
+    ],
+    "seconds": 12.13
+   },
+   {
+    "weight": "160 lb",
+    "occurrences": 1,
+    "gate_yes": 0.994,
+    "choices": [
+     "2186-03-15"
+    ],
+    "p": [
+     0.9838
+    ],
+    "seconds": 12.1
+   },
+   {
+    "weight": "147 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9966,
+    "choices": [
+     "2186-11-10"
+    ],
+    "p": [
+     0.9853
+    ],
+    "seconds": 11.96
+   }
+  ],
+  "seconds": 90.35
+ },
+ {
+  "doc": "pilot_P8_10007795_08",
+  "pairs": [
+   {
+    "date": "2137-07-10",
+    "weight": 74.4,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "72.6 kg",
+    "occurrences": 1,
+    "gate_yes": 0.3805,
+    "choices": [
+     "NONE (gate)"
+    ],
+    "seconds": 4.17
+   },
+   {
+    "weight": "70.3 kg",
+    "occurrences": 1,
+    "gate_yes": 0.0833,
+    "choices": [
+     "NONE (gate)"
+    ],
+    "seconds": 2.53
+   },
+   {
+    "weight": "69.4 kg",
+    "occurrences": 1,
+    "gate_yes": 0.3282,
+    "choices": [
+     "NONE (gate)"
+    ],
+    "seconds": 2.41
+   },
+   {
+    "weight": "68.9 kg",
+    "occurrences": 1,
+    "gate_yes": 0.3772,
+    "choices": [
+     "NONE (gate)"
+    ],
+    "seconds": 2.44
+   },
+   {
+    "weight": "66.6 kg",
+    "occurrences": 1,
+    "gate_yes": 0.1241,
+    "choices": [
+     "NONE (gate)"
+    ],
+    "seconds": 2.54
+   },
+   {
+    "weight": "64.6 kg",
+    "occurrences": 1,
+    "gate_yes": 0.4084,
+    "choices": [
+     "NONE (gate)"
+    ],
+    "seconds": 2.55
+   },
+   {
+    "weight": "65.3 kg",
+    "occurrences": 1,
+    "gate_yes": 0.1821,
+    "choices": [
+     "NONE (gate)"
+    ],
+    "seconds": 2.57
+   },
+   {
+    "weight": "66 kg",
+    "occurrences": 1,
+    "gate_yes": 0.1827,
+    "choices": [
+     "NONE (gate)"
+    ],
+    "seconds": 2.56
+   },
+   {
+    "weight": "74.4 kg",
+    "occurrences": 1,
+    "gate_yes": 0.8223,
+    "choices": [
+     "2137-07-10"
+    ],
+    "p": [
+     0.9941
+    ],
+    "seconds": 11.42
+   },
+   {
+    "weight": "70.7 kg",
+    "occurrences": 1,
+    "gate_yes": 0.0067,
+    "choices": [
+     "NONE (gate)"
+    ],
+    "seconds": 2.43
+   }
+  ],
+  "seconds": 35.63
+ },
+ {
+  "doc": "pilot_P9_10004720_09",
+  "pairs": [
+   {
+    "date": "2182-12-11",
+    "weight": 133.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2183-03-11",
+    "weight": 134.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2183-04-08",
+    "weight": 138.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2183-05-05",
+    "weight": 139.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2183-07-14",
+    "weight": 135.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2183-10-21",
+    "weight": 137.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2183-12-11",
+    "weight": 142.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2184-04-20",
+    "weight": 149.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2184-06-29",
+    "weight": 151.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "133 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9944,
+    "choices": [
+     "2182-12-11"
+    ],
+    "p": [
+     0.9949
+    ],
+    "seconds": 21.2
+   },
+   {
+    "weight": "134 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9919,
+    "choices": [
+     "2183-03-11"
+    ],
+    "p": [
+     0.9897
+    ],
+    "seconds": 15.12
+   },
+   {
+    "weight": "138.5 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9965,
+    "choices": [
+     "2183-04-08"
+    ],
+    "p": [
+     0.9935
+    ],
+    "seconds": 15.77
+   },
+   {
+    "weight": "139 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9953,
+    "choices": [
+     "2183-05-05"
+    ],
+    "p": [
+     0.9936
+    ],
+    "seconds": 15.6
+   },
+   {
+    "weight": "135 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9939,
+    "choices": [
+     "2183-07-14"
+    ],
+    "p": [
+     0.9898
+    ],
+    "seconds": 15.53
+   },
+   {
+    "weight": "137 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9949,
+    "choices": [
+     "2183-10-21"
+    ],
+    "p": [
+     0.992
+    ],
+    "seconds": 15.93
+   },
+   {
+    "weight": "142.1 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9958,
+    "choices": [
+     "2183-12-11"
+    ],
+    "p": [
+     0.9921
+    ],
+    "seconds": 16.11
+   },
+   {
+    "weight": "149 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9961,
+    "choices": [
+     "2184-04-20"
+    ],
+    "p": [
+     0.9911
+    ],
+    "seconds": 15.83
+   },
+   {
+    "weight": "151 lb",
+    "occurrences": 1,
+    "gate_yes": 0.9969,
+    "choices": [
+     "2184-06-29"
+    ],
+    "p": [
+     0.9853
+    ],
+    "seconds": 16.05
+   }
+  ],
+  "seconds": 147.14
+ }
+]

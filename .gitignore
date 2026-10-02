@@ -1,0 +1,10 @@
+# Downloaded by scripts/setup.sh
+.venv/
+bin/
+models/
+data/mimic-iv-demo/
+
+# Local runtime output
+results/**/*.log
+__pycache__/
+.DS_Store

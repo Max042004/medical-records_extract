@@ -1,0 +1,3036 @@
+[
+ {
+  "doc": "test_T1_10020740",
+  "pairs": [
+   {
+    "date": "2150-05-21",
+    "weight": 180.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-06-18",
+    "weight": 172.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-07-10",
+    "weight": 166.9,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "180.4 lb",
+    "line": "05/21/2150      115/67               180.4 lb      28.3 kg/m2   67 in",
+    "gate_yes": 0.9934,
+    "choice": "2150-05-21",
+    "p": 0.9961,
+    "seconds": 9.81
+   },
+   {
+    "weight": "172.7 lb",
+    "line": "06/18/2150      116/67               172.7 lb      27.9 kg/m2   66 in",
+    "gate_yes": 0.9944,
+    "choice": "2150-06-18",
+    "p": 0.9965,
+    "seconds": 11.95
+   },
+   {
+    "weight": "166.9 lb",
+    "line": "07/10/2150                           166.9 lb      26.1 kg/m2   67 in",
+    "gate_yes": 0.9917,
+    "choice": "2150-07-10",
+    "p": 0.9934,
+    "seconds": 11.87
+   }
+  ],
+  "seconds": 33.63
+ },
+ {
+  "doc": "test_T1_10035631",
+  "pairs": [
+   {
+    "date": "2116-02-16",
+    "weight": 186.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2116-02-17",
+    "weight": 187.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2116-02-18",
+    "weight": 186.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "186.5 lb",
+    "line": "02/16/2116      125/72               186.5 lb      26.4 kg/m2   70.5 in",
+    "gate_yes": 0.9934,
+    "choice": "2116-02-16",
+    "p": 0.9964,
+    "seconds": 12.33
+   },
+   {
+    "weight": "187.6 lb",
+    "line": "02/17/2116      106/66               187.6 lb      26.2 kg/m2   71 in",
+    "gate_yes": 0.9913,
+    "choice": "2116-02-17",
+    "p": 0.997,
+    "seconds": 11.93
+   },
+   {
+    "weight": "186 lb",
+    "line": "02/18/2116      110/59               186 lb        25.9 kg/m2   71 in",
+    "gate_yes": 0.994,
+    "choice": "2116-02-18",
+    "p": 0.9946,
+    "seconds": 12.09
+   }
+  ],
+  "seconds": 36.36
+ },
+ {
+  "doc": "test_T1_10037861",
+  "pairs": [
+   {
+    "date": "2115-10-09",
+    "weight": 181.9,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "181.9 lb",
+    "line": "10/09/2115                           181.9 lb      33.3 kg/m2   62 in",
+    "gate_yes": 0.9913,
+    "choice": "2115-10-09",
+    "p": 0.9885,
+    "seconds": 9.09
+   }
+  ],
+  "seconds": 9.09
+ },
+ {
+  "doc": "test_T1_10024043",
+  "pairs": [
+   {
+    "date": "2116-10-06",
+    "weight": 197.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2116-12-24",
+    "weight": 196.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-01-27",
+    "weight": 195.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-02-22",
+    "weight": 188.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-03-24",
+    "weight": 190.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "197 lb",
+    "line": "10/06/2116      120/60               197 lb        14.7 kg/m2",
+    "gate_yes": 0.9929,
+    "choice": "2116-10-06",
+    "p": 0.9939,
+    "seconds": 14.84
+   },
+   {
+    "weight": "196 lb",
+    "line": "12/24/2116      134/80               196 lb        14.7 kg/m2",
+    "gate_yes": 0.9926,
+    "choice": "2116-12-24",
+    "p": 0.9966,
+    "seconds": 15.03
+   },
+   {
+    "weight": "195 lb",
+    "line": "01/27/2117      152/64               195 lb        14.6 kg/m2",
+    "gate_yes": 0.9919,
+    "choice": "2117-01-27",
+    "p": 0.9956,
+    "seconds": 15.02
+   },
+   {
+    "weight": "188.5 lb",
+    "line": "02/22/2117      130/78               188.5 lb      27.4 kg/m2   69.5 in",
+    "gate_yes": 0.9949,
+    "choice": "2117-02-22",
+    "p": 0.9895,
+    "seconds": 15.3
+   },
+   {
+    "weight": "190 lb",
+    "line": "03/24/2117      140/68               190 lb        27.7 kg/m2",
+    "gate_yes": 0.9937,
+    "choice": "2117-03-24",
+    "p": 0.9936,
+    "seconds": 14.51
+   }
+  ],
+  "seconds": 74.7
+ },
+ {
+  "doc": "test_T1_10000032",
+  "pairs": [
+   {
+    "date": "2180-05-25",
+    "weight": 95.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2180-06-01",
+    "weight": 95.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2180-06-22",
+    "weight": 97.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2180-06-27",
+    "weight": 98.3,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "95 lb",
+    "line": "05/25/2180      106/60               95 lb         18.6 kg/m2",
+    "gate_yes": 0.9919,
+    "choice": "2180-05-25",
+    "p": 0.9926,
+    "seconds": 12.2
+   },
+   {
+    "weight": "95.7 lb",
+    "line": "06/01/2180      121/77               95.7 lb       18.7 kg/m2",
+    "gate_yes": 0.9939,
+    "choice": "2180-06-01",
+    "p": 0.9955,
+    "seconds": 12.38
+   },
+   {
+    "weight": "97 lb",
+    "line": "06/22/2180      100/60               97 lb         18.9 kg/m2   60 in",
+    "gate_yes": 0.9948,
+    "choice": "2180-06-22",
+    "p": 0.9924,
+    "seconds": 12.97
+   },
+   {
+    "weight": "98.3 lb",
+    "line": "06/27/2180                           98.3 lb       19.2 kg/m2",
+    "gate_yes": 0.9817,
+    "choice": "2180-06-27",
+    "p": 0.9583,
+    "seconds": 12.71
+   }
+  ],
+  "seconds": 50.26
+ },
+ {
+  "doc": "test_T1_10003400",
+  "pairs": [
+   {
+    "date": "2136-02-25",
+    "weight": 198.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2136-04-29",
+    "weight": 194.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2136-11-05",
+    "weight": 186.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2137-01-01",
+    "weight": 182.8,
+    "unit": "lb"
+   },
+   {
+    "date": "2137-02-08",
+    "weight": 177.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2137-02-24",
+    "weight": 184.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2137-05-05",
+    "weight": 185.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2137-08-05",
+    "weight": 215.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "198 lb",
+    "line": "02/25/2136      130/60               198 lb",
+    "gate_yes": 0.9916,
+    "choice": "2136-02-25",
+    "p": 0.9967,
+    "seconds": 18.29
+   },
+   {
+    "weight": "194 lb",
+    "line": "04/29/2136      120/60               194 lb",
+    "gate_yes": 0.9933,
+    "choice": "2136-04-29",
+    "p": 0.9884,
+    "seconds": 17.45
+   },
+   {
+    "weight": "186 lb",
+    "line": "11/05/2136                           186 lb        31.9 kg/m2   64 in",
+    "gate_yes": 0.9917,
+    "choice": "2136-11-05",
+    "p": 0.9949,
+    "seconds": 17.9
+   },
+   {
+    "weight": "182.8 lb",
+    "line": "01/01/2137                           182.8 lb      31.4 kg/m2",
+    "gate_yes": 0.9858,
+    "choice": "2137-01-01",
+    "p": 0.9952,
+    "seconds": 17.32
+   },
+   {
+    "weight": "177.9 lb",
+    "line": "02/08/2137                           177.9 lb      31.5 kg/m2   63 in",
+    "gate_yes": 0.994,
+    "choice": "2137-02-08",
+    "p": 0.9941,
+    "seconds": 17.55
+   },
+   {
+    "weight": "184.7 lb",
+    "line": "02/24/2137                           184.7 lb      32.7 kg/m2",
+    "gate_yes": 0.9904,
+    "choice": "2137-02-24",
+    "p": 0.9911,
+    "seconds": 17.17
+   },
+   {
+    "weight": "185 lb",
+    "line": "05/05/2137      110/60               185 lb        32.8 kg/m2",
+    "gate_yes": 0.9907,
+    "choice": "2137-05-05",
+    "p": 0.992,
+    "seconds": 17.11
+   },
+   {
+    "weight": "215 lb",
+    "line": "08/05/2137                           215 lb        38.1 kg/m2",
+    "gate_yes": 0.9936,
+    "choice": "2137-08-05",
+    "p": 0.9938,
+    "seconds": 17.03
+   }
+  ],
+  "seconds": 139.82
+ },
+ {
+  "doc": "test_T1_10039997",
+  "pairs": [
+   {
+    "date": "2134-08-25",
+    "weight": 201.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2134-09-16",
+    "weight": 201.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2137-03-16",
+    "weight": 179.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2138-01-27",
+    "weight": 200.1,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "201 lb",
+    "line": "08/25/2134      130/84               201 lb        33.4 kg/m2   65 in",
+    "gate_yes": 0.994,
+    "choice": "2134-08-25",
+    "p": 0.9634,
+    "seconds": 14.39
+   },
+   {
+    "weight": "201 lb",
+    "line": "09/16/2134      126/86               201 lb        33.4 kg/m2   65 in",
+    "gate_yes": 0.9943,
+    "choice": "2134-09-16",
+    "p": 0.9932,
+    "seconds": 14.24
+   },
+   {
+    "weight": "179.9 lb",
+    "line": "03/16/2137                           179.9 lb      29.9 kg/m2",
+    "gate_yes": 0.9907,
+    "choice": "2137-03-16",
+    "p": 0.9878,
+    "seconds": 14.6
+   },
+   {
+    "weight": "200.1 lb",
+    "line": "01/27/2138      141/82               200.1 lb      33.3 kg/m2",
+    "gate_yes": 0.9949,
+    "choice": "2138-01-27",
+    "p": 0.9967,
+    "seconds": 14.6
+   }
+  ],
+  "seconds": 57.83
+ },
+ {
+  "doc": "test_T1_10031757",
+  "pairs": [
+   {
+    "date": "2137-09-15",
+    "weight": 239.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "239 lb",
+    "line": "09/15/2137      138/94               239 lb",
+    "gate_yes": 0.9869,
+    "choice": "2137-09-15",
+    "p": 0.9929,
+    "seconds": 8.24
+   }
+  ],
+  "seconds": 8.24
+ },
+ {
+  "doc": "test_T1_10004422",
+  "pairs": [
+   {
+    "date": "2111-06-06",
+    "weight": 138.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2111-11-23",
+    "weight": 140.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "138 lb",
+    "line": "06/06/2111      128/60               138 lb",
+    "gate_yes": 0.9905,
+    "choice": "2111-06-06",
+    "p": 0.9961,
+    "seconds": 8.36
+   },
+   {
+    "weight": "140 lb",
+    "line": "11/23/2111      140/60               140 lb",
+    "gate_yes": 0.9839,
+    "choice": "2111-11-23",
+    "p": 0.9941,
+    "seconds": 7.22
+   }
+  ],
+  "seconds": 15.58
+ },
+ {
+  "doc": "test_T1_10019385",
+  "pairs": [
+   {
+    "date": "2180-02-15",
+    "weight": 214.1,
+    "unit": "lb"
+   },
+   {
+    "date": "2180-03-04",
+    "weight": 97.3,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "214.1 lb",
+    "line": "02/15/2180                           214.1 lb      32.5 kg/m2   68 in",
+    "gate_yes": 0.974,
+    "choice": "2180-02-15",
+    "p": 0.9921,
+    "seconds": 9.27
+   },
+   {
+    "weight": "97.3 lb",
+    "line": "03/04/2180                           97.3 lb       14.8 kg/m2",
+    "gate_yes": 0.9427,
+    "choice": "2180-03-04",
+    "p": 0.9909,
+    "seconds": 7.09
+   }
+  ],
+  "seconds": 16.36
+ },
+ {
+  "doc": "test_T2_10018081",
+  "pairs": [
+   {
+    "date": "2134-08-18",
+    "weight": 187.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2134-09-06",
+    "weight": 169.3,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "187.4 lb",
+    "line": "O: Weight 187.4 lb. BMI 28.5 kg/m2.",
+    "gate_yes": 0.9909,
+    "choice": "2134-08-18",
+    "p": 0.9945,
+    "seconds": 12.21
+   },
+   {
+    "weight": "174 lb",
+    "line": "Goal weight discussed: 174 lb.",
+    "gate_yes": 0.013,
+    "choice": "NONE (gate)",
+    "p": 0.987,
+    "seconds": 2.61
+   },
+   {
+    "weight": "169.3 lb",
+    "line": "O: Weight 169.3 lb (previous 187.4 lb on 2134-08-18). BMI 25.7 kg/m2.",
+    "gate_yes": 0.9931,
+    "choice": "2134-09-06",
+    "p": 0.9509,
+    "seconds": 8.27
+   },
+   {
+    "weight": "187.4 lb",
+    "line": "O: Weight 169.3 lb (previous 187.4 lb on 2134-08-18). BMI 25.7 kg/m2.",
+    "gate_yes": 0.9632,
+    "choice": "2134-08-18",
+    "p": 0.9888,
+    "seconds": 7.93
+   },
+   {
+    "weight": "-18.1 lb",
+    "line": "Weight change since last visit: -18.1 lb.",
+    "gate_yes": 0.0085,
+    "choice": "NONE (gate)",
+    "p": 0.9915,
+    "seconds": 1.79
+   }
+  ],
+  "seconds": 32.8
+ },
+ {
+  "doc": "test_T2_10021487",
+  "pairs": [
+   {
+    "date": "2117-01-19",
+    "weight": 254.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-02-10",
+    "weight": 227.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-05-05",
+    "weight": 204.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-06-16",
+    "weight": 193.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2117-07-07",
+    "weight": 196.6,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "254 lb",
+    "line": "O: BP 110/70. Weight 254 lb. BMI 34.4 kg/m2.",
+    "gate_yes": 0.9896,
+    "choice": "2117-01-19",
+    "p": 0.9921,
+    "seconds": 22.65
+   },
+   {
+    "weight": "236 lb",
+    "line": "Goal weight discussed: 236 lb.",
+    "gate_yes": 0.0087,
+    "choice": "NONE (gate)",
+    "p": 0.9913,
+    "seconds": 8.64
+   },
+   {
+    "weight": "227 lb",
+    "line": "O: BP 119/81. Weight 227 lb (previous 254 lb on 2117-01-19). BMI 30.8 kg/m2.",
+    "gate_yes": 0.9938,
+    "choice": "2117-02-10",
+    "p": 0.9851,
+    "seconds": 24.11
+   },
+   {
+    "weight": "254 lb",
+    "line": "O: BP 119/81. Weight 227 lb (previous 254 lb on 2117-01-19). BMI 30.8 kg/m2.",
+    "gate_yes": 0.9748,
+    "choice": "2117-01-19",
+    "p": 0.9932,
+    "seconds": 21.87
+   },
+   {
+    "weight": "-27 lb",
+    "line": "Weight change since last visit: -27 lb.",
+    "gate_yes": 0.0093,
+    "choice": "NONE (gate)",
+    "p": 0.9907,
+    "seconds": 7.16
+   },
+   {
+    "weight": "204 lb",
+    "line": "O: BP 138/103. Weight 204 lb (previous 227 lb on 2117-02-10). BMI 27.7 kg/m2.",
+    "gate_yes": 0.994,
+    "choice": "2117-05-05",
+    "p": 0.9575,
+    "seconds": 23.29
+   },
+   {
+    "weight": "227 lb",
+    "line": "O: BP 138/103. Weight 204 lb (previous 227 lb on 2117-02-10). BMI 27.7 kg/m2.",
+    "gate_yes": 0.9889,
+    "choice": "2117-02-10",
+    "p": 0.9647,
+    "seconds": 28.01
+   },
+   {
+    "weight": "-23 lb",
+    "line": "Weight change since last visit: -23 lb.",
+    "gate_yes": 0.0057,
+    "choice": "NONE (gate)",
+    "p": 0.9943,
+    "seconds": 7.19
+   },
+   {
+    "weight": "193 lb",
+    "line": "O: BP 134/93. Weight 193 lb (previous 204 lb on 2117-05-05). BMI 26.2 kg/m2.",
+    "gate_yes": 0.9931,
+    "choice": "2117-06-16",
+    "p": 0.9079,
+    "seconds": 22.47
+   },
+   {
+    "weight": "204 lb",
+    "line": "O: BP 134/93. Weight 193 lb (previous 204 lb on 2117-05-05). BMI 26.2 kg/m2.",
+    "gate_yes": 0.9704,
+    "choice": "2117-05-05",
+    "p": 0.9413,
+    "seconds": 22.76
+   },
+   {
+    "weight": "-11 lb",
+    "line": "Weight change since last visit: -11 lb.",
+    "gate_yes": 0.005,
+    "choice": "NONE (gate)",
+    "p": 0.995,
+    "seconds": 7.75
+   },
+   {
+    "weight": "196.6 lb",
+    "line": "O: BP 130/93. Weight 196.6 lb (previous 193 lb on 2117-06-16). BMI 26.7 kg/m2.",
+    "gate_yes": 0.9942,
+    "choice": "2117-07-07",
+    "p": 0.818,
+    "seconds": 24.31
+   },
+   {
+    "weight": "193 lb",
+    "line": "O: BP 130/93. Weight 196.6 lb (previous 193 lb on 2117-06-16). BMI 26.7 kg/m2.",
+    "gate_yes": 0.987,
+    "choice": "2117-06-16",
+    "p": 0.9498,
+    "seconds": 23.51
+   },
+   {
+    "weight": "+3.6 lb",
+    "line": "Weight change since last visit: +3.6 lb.",
+    "gate_yes": 0.0017,
+    "choice": "NONE (gate)",
+    "p": 0.9983,
+    "seconds": 6.69
+   }
+  ],
+  "seconds": 250.4
+ },
+ {
+  "doc": "test_T2_10002930",
+  "pairs": [
+   {
+    "date": "2197-04-08",
+    "weight": 152.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2198-04-22",
+    "weight": 165.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "152 lb",
+    "line": "O: Weight 152 lb. BMI 27.8 kg/m2.",
+    "gate_yes": 0.9897,
+    "choice": "2197-04-08",
+    "p": 0.9914,
+    "seconds": 16.93
+   },
+   {
+    "weight": "141 lb",
+    "line": "Goal weight discussed: 141 lb.",
+    "gate_yes": 0.0107,
+    "choice": "NONE (gate)",
+    "p": 0.9893,
+    "seconds": 2.71
+   },
+   {
+    "weight": "165 lb",
+    "line": "O: Weight 165 lb (previous 152 lb on 2197-04-08). BMI 30.2 kg/m2.",
+    "gate_yes": 0.9911,
+    "choice": "2198-04-22",
+    "p": 0.9389,
+    "seconds": 10.71
+   },
+   {
+    "weight": "152 lb",
+    "line": "O: Weight 165 lb (previous 152 lb on 2197-04-08). BMI 30.2 kg/m2.",
+    "gate_yes": 0.9649,
+    "choice": "2197-04-08",
+    "p": 0.984,
+    "seconds": 9.0
+   },
+   {
+    "weight": "+13 lb",
+    "line": "Weight change since last visit: +13 lb.",
+    "gate_yes": 0.0074,
+    "choice": "NONE (gate)",
+    "p": 0.9926,
+    "seconds": 2.39
+   }
+  ],
+  "seconds": 41.75
+ },
+ {
+  "doc": "test_T2_10019003",
+  "pairs": [
+   {
+    "date": "2153-06-27",
+    "weight": 173.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-07-18",
+    "weight": 175.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-08-24",
+    "weight": 173.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2153-09-22",
+    "weight": 171.2,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "173 lb",
+    "line": "O: BP 147/65. Weight 173 lb. BMI 30.6 kg/m2.",
+    "gate_yes": 0.9933,
+    "choice": "2153-06-27",
+    "p": 0.9923,
+    "seconds": 22.73
+   },
+   {
+    "weight": "161 lb",
+    "line": "Goal weight discussed: 161 lb.",
+    "gate_yes": 0.0049,
+    "choice": "NONE (gate)",
+    "p": 0.9951,
+    "seconds": 5.96
+   },
+   {
+    "weight": "175.5 lb",
+    "line": "O: BP 134/74. Weight 175.5 lb (previous 173 lb on 2153-06-27). BMI 31.1 kg/m2.",
+    "gate_yes": 0.993,
+    "choice": "2153-07-18",
+    "p": 0.9824,
+    "seconds": 20.09
+   },
+   {
+    "weight": "173 lb",
+    "line": "O: BP 134/74. Weight 175.5 lb (previous 173 lb on 2153-06-27). BMI 31.1 kg/m2.",
+    "gate_yes": 0.9167,
+    "choice": "2153-06-27",
+    "p": 0.9692,
+    "seconds": 19.33
+   },
+   {
+    "weight": "+2.5 lb",
+    "line": "Weight change since last visit: +2.5 lb.",
+    "gate_yes": 0.0034,
+    "choice": "NONE (gate)",
+    "p": 0.9966,
+    "seconds": 6.09
+   },
+   {
+    "weight": "173 lb",
+    "line": "O: BP 133/72. Weight 173 lb (previous 175.5 lb on 2153-07-18). BMI 30.6 kg/m2.",
+    "gate_yes": 0.9942,
+    "choice": "2153-08-24",
+    "p": 0.9324,
+    "seconds": 19.83
+   },
+   {
+    "weight": "175.5 lb",
+    "line": "O: BP 133/72. Weight 173 lb (previous 175.5 lb on 2153-07-18). BMI 30.6 kg/m2.",
+    "gate_yes": 0.9826,
+    "choice": "2153-07-18",
+    "p": 0.952,
+    "seconds": 18.9
+   },
+   {
+    "weight": "-2.5 lb",
+    "line": "Weight change since last visit: -2.5 lb.",
+    "gate_yes": 0.0053,
+    "choice": "NONE (gate)",
+    "p": 0.9947,
+    "seconds": 5.43
+   },
+   {
+    "weight": "171.2 lb",
+    "line": "O: BP 136/60. Weight 171.2 lb (previous 173 lb on 2153-08-24). BMI 29.8 kg/m2.",
+    "gate_yes": 0.9949,
+    "choice": "2153-09-22",
+    "p": 0.8884,
+    "seconds": 19.15
+   },
+   {
+    "weight": "173 lb",
+    "line": "O: BP 136/60. Weight 171.2 lb (previous 173 lb on 2153-08-24). BMI 29.8 kg/m2.",
+    "gate_yes": 0.9743,
+    "choice": "2153-08-24",
+    "p": 0.9193,
+    "seconds": 21.0
+   },
+   {
+    "weight": "-1.8 lb",
+    "line": "Weight change since last visit: -1.8 lb.",
+    "gate_yes": 0.0053,
+    "choice": "NONE (gate)",
+    "p": 0.9947,
+    "seconds": 5.81
+   }
+  ],
+  "seconds": 164.32
+ },
+ {
+  "doc": "test_T2_10014354",
+  "pairs": [
+   {
+    "date": "2150-04-19",
+    "weight": 288.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-04-25",
+    "weight": 286.9,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-05-01",
+    "weight": 278.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-05-01",
+    "weight": 280.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-05-17",
+    "weight": 291.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-05-10",
+    "weight": 280.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-05-31",
+    "weight": 294.7,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "288.7 lb",
+    "line": "O: BP 115/52. Weight 288.7 lb. BMI 40.3 kg/m2.",
+    "gate_yes": 0.9909,
+    "choice": "2150-04-19",
+    "p": 0.9913,
+    "seconds": 31.71
+   },
+   {
+    "weight": "268 lb",
+    "line": "Goal weight discussed: 268 lb.",
+    "gate_yes": 0.0069,
+    "choice": "NONE (gate)",
+    "p": 0.9931,
+    "seconds": 9.41
+   },
+   {
+    "weight": "286.9 lb",
+    "line": "O: BP 116/68. Weight 286.9 lb (previous 288.7 lb on 2150-04-19). BMI 38.9 kg/m2.",
+    "gate_yes": 0.9943,
+    "choice": "2150-04-25",
+    "p": 0.9513,
+    "seconds": 27.61
+   },
+   {
+    "weight": "288.7 lb",
+    "line": "O: BP 116/68. Weight 286.9 lb (previous 288.7 lb on 2150-04-19). BMI 38.9 kg/m2.",
+    "gate_yes": 0.9786,
+    "choice": "2150-04-19",
+    "p": 0.9883,
+    "seconds": 27.39
+   },
+   {
+    "weight": "-1.8 lb",
+    "line": "Weight change since last visit: -1.8 lb.",
+    "gate_yes": 0.0071,
+    "choice": "NONE (gate)",
+    "p": 0.9929,
+    "seconds": 9.0
+   },
+   {
+    "weight": "278 lb",
+    "line": "O: Weight 278 lb (previous 286.9 lb on 2150-04-25). BMI 36.7 kg/m2.",
+    "gate_yes": 0.9935,
+    "choice": "2150-05-01",
+    "p": 0.9179,
+    "seconds": 28.26
+   },
+   {
+    "weight": "286.9 lb",
+    "line": "O: Weight 278 lb (previous 286.9 lb on 2150-04-25). BMI 36.7 kg/m2.",
+    "gate_yes": 0.9832,
+    "choice": "2150-04-25",
+    "p": 0.98,
+    "seconds": 28.2
+   },
+   {
+    "weight": "-8.9 lb",
+    "line": "Weight change since last visit: -8.9 lb.",
+    "gate_yes": 0.009,
+    "choice": "NONE (gate)",
+    "p": 0.991,
+    "seconds": 7.77
+   },
+   {
+    "weight": "280 lb",
+    "line": "O: Weight 280 lb (previous 278 lb on 2150-05-01). BMI 36.9 kg/m2.",
+    "gate_yes": 0.9927,
+    "choice": "2150-05-01",
+    "p": 0.5331,
+    "seconds": 28.77
+   },
+   {
+    "weight": "278 lb",
+    "line": "O: Weight 280 lb (previous 278 lb on 2150-05-01). BMI 36.9 kg/m2.",
+    "gate_yes": 0.9795,
+    "choice": "2150-05-01",
+    "p": 0.9651,
+    "seconds": 26.9
+   },
+   {
+    "weight": "+2 lb",
+    "line": "Weight change since last visit: +2 lb.",
+    "gate_yes": 0.0134,
+    "choice": "NONE (gate)",
+    "p": 0.9866,
+    "seconds": 7.39
+   },
+   {
+    "weight": "291 lb",
+    "line": "O: BP 134/78. Weight 291 lb (previous 280 lb on 2150-05-10). BMI 38.4 kg/m2.",
+    "gate_yes": 0.9937,
+    "choice": "2150-05-17",
+    "p": 0.9565,
+    "seconds": 27.96
+   },
+   {
+    "weight": "280 lb",
+    "line": "O: BP 134/78. Weight 291 lb (previous 280 lb on 2150-05-10). BMI 38.4 kg/m2.",
+    "gate_yes": 0.9782,
+    "choice": "2150-05-10",
+    "p": 0.8729,
+    "seconds": 28.59
+   },
+   {
+    "weight": "+11 lb",
+    "line": "Weight change since last visit: +11 lb.",
+    "gate_yes": 0.0053,
+    "choice": "NONE (gate)",
+    "p": 0.9947,
+    "seconds": 5.58
+   },
+   {
+    "weight": "294.7 lb",
+    "line": "O: BP 138/84. Weight 294.7 lb (previous 291 lb on 2150-05-17). BMI 38.9 kg/m2.",
+    "gate_yes": 0.9948,
+    "choice": "2150-05-31",
+    "p": 0.8823,
+    "seconds": 20.25
+   },
+   {
+    "weight": "291 lb",
+    "line": "O: BP 138/84. Weight 294.7 lb (previous 291 lb on 2150-05-17). BMI 38.9 kg/m2.",
+    "gate_yes": 0.9843,
+    "choice": "2150-05-17",
+    "p": 0.9776,
+    "seconds": 21.04
+   },
+   {
+    "weight": "+3.7 lb",
+    "line": "Weight change since last visit: +3.7 lb.",
+    "gate_yes": 0.0036,
+    "choice": "NONE (gate)",
+    "p": 0.9964,
+    "seconds": 5.4
+   }
+  ],
+  "seconds": 341.22
+ },
+ {
+  "doc": "test_T2_10025612",
+  "pairs": [
+   {
+    "date": "2125-09-10",
+    "weight": 168.6,
+    "unit": "lb"
+   },
+   {
+    "date": "2125-09-24",
+    "weight": 168.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2125-10-06",
+    "weight": 165.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2125-10-13",
+    "weight": 160.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2126-05-13",
+    "weight": 162.7,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "168.6 lb",
+    "line": "O: BP 144/75. Weight 168.6 lb. BMI 28.1 kg/m2.",
+    "gate_yes": 0.9919,
+    "choice": "2125-09-10",
+    "p": 0.9945,
+    "seconds": 22.4
+   },
+   {
+    "weight": "157 lb",
+    "line": "Goal weight discussed: 157 lb.",
+    "gate_yes": 0.0045,
+    "choice": "NONE (gate)",
+    "p": 0.9955,
+    "seconds": 5.52
+   },
+   {
+    "weight": "168.5 lb",
+    "line": "O: BP 142/72. Weight 168.5 lb (previous 168.6 lb on 2125-09-10). BMI 28.3 kg/m2.",
+    "gate_yes": 0.9887,
+    "choice": "2125-09-24",
+    "p": 0.9774,
+    "seconds": 18.96
+   },
+   {
+    "weight": "168.6 lb",
+    "line": "O: BP 142/72. Weight 168.5 lb (previous 168.6 lb on 2125-09-10). BMI 28.3 kg/m2.",
+    "gate_yes": 0.9777,
+    "choice": "2125-09-10",
+    "p": 0.9794,
+    "seconds": 18.88
+   },
+   {
+    "weight": "-0.1 lb",
+    "line": "Weight change since last visit: -0.1 lb.",
+    "gate_yes": 0.0109,
+    "choice": "NONE (gate)",
+    "p": 0.9891,
+    "seconds": 5.76
+   },
+   {
+    "weight": "165 lb",
+    "line": "O: BP 112/69. Weight 165 lb (previous 168.5 lb on 2125-09-24). BMI 28.3 kg/m2.",
+    "gate_yes": 0.9945,
+    "choice": "2125-10-06",
+    "p": 0.9704,
+    "seconds": 19.51
+   },
+   {
+    "weight": "168.5 lb",
+    "line": "O: BP 112/69. Weight 165 lb (previous 168.5 lb on 2125-09-24). BMI 28.3 kg/m2.",
+    "gate_yes": 0.9867,
+    "choice": "2125-09-24",
+    "p": 0.98,
+    "seconds": 22.16
+   },
+   {
+    "weight": "-3.5 lb",
+    "line": "Weight change since last visit: -3.5 lb.",
+    "gate_yes": 0.0052,
+    "choice": "NONE (gate)",
+    "p": 0.9948,
+    "seconds": 5.46
+   },
+   {
+    "weight": "160.7 lb",
+    "line": "O: BP 109/76. Weight 160.7 lb (previous 165 lb on 2125-10-06). BMI 27.6 kg/m2.",
+    "gate_yes": 0.9943,
+    "choice": "2125-10-13",
+    "p": 0.6965,
+    "seconds": 20.37
+   },
+   {
+    "weight": "165 lb",
+    "line": "O: BP 109/76. Weight 160.7 lb (previous 165 lb on 2125-10-06). BMI 27.6 kg/m2.",
+    "gate_yes": 0.9748,
+    "choice": "2125-10-06",
+    "p": 0.9687,
+    "seconds": 20.01
+   },
+   {
+    "weight": "-4.3 lb",
+    "line": "Weight change since last visit: -4.3 lb.",
+    "gate_yes": 0.0044,
+    "choice": "NONE (gate)",
+    "p": 0.9956,
+    "seconds": 5.5
+   },
+   {
+    "weight": "162.7 lb",
+    "line": "O: BP 131/82. Weight 162.7 lb (previous 160.7 lb on 2125-10-13). BMI 27.9 kg/m2.",
+    "gate_yes": 0.994,
+    "choice": "2126-05-13",
+    "p": 0.8233,
+    "seconds": 20.05
+   },
+   {
+    "weight": "160.7 lb",
+    "line": "O: BP 131/82. Weight 162.7 lb (previous 160.7 lb on 2125-10-13). BMI 27.9 kg/m2.",
+    "gate_yes": 0.9831,
+    "choice": "2125-10-13",
+    "p": 0.9801,
+    "seconds": 20.35
+   },
+   {
+    "weight": "+2 lb",
+    "line": "Weight change since last visit: +2 lb.",
+    "gate_yes": 0.0065,
+    "choice": "NONE (gate)",
+    "p": 0.9935,
+    "seconds": 5.47
+   }
+  ],
+  "seconds": 210.4
+ },
+ {
+  "doc": "test_T2_10012853",
+  "pairs": [
+   {
+    "date": "2175-04-05",
+    "weight": 165.3,
+    "unit": "lb"
+   },
+   {
+    "date": "2176-06-07",
+    "weight": 143.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2176-11-26",
+    "weight": 170.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2177-01-05",
+    "weight": 149.8,
+    "unit": "lb"
+   },
+   {
+    "date": "2177-02-12",
+    "weight": 149.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "165.3 lb",
+    "line": "O: Weight 165.3 lb. BMI 4649.4 kg/m2.",
+    "gate_yes": 0.986,
+    "choice": "2175-04-05",
+    "p": 0.9931,
+    "seconds": 12.18
+   },
+   {
+    "weight": "154 lb",
+    "line": "Goal weight discussed: 154 lb.",
+    "gate_yes": 0.0116,
+    "choice": "NONE (gate)",
+    "p": 0.9884,
+    "seconds": 3.25
+   },
+   {
+    "weight": "143 lb",
+    "line": "O: Weight 143 lb (previous 165.3 lb on 2175-04-05). BMI 24.5 kg/m2.",
+    "gate_yes": 0.9914,
+    "choice": "2176-06-07",
+    "p": 0.9788,
+    "seconds": 10.72
+   },
+   {
+    "weight": "165.3 lb",
+    "line": "O: Weight 143 lb (previous 165.3 lb on 2175-04-05). BMI 24.5 kg/m2.",
+    "gate_yes": 0.9625,
+    "choice": "2175-04-05",
+    "p": 0.9801,
+    "seconds": 10.89
+   },
+   {
+    "weight": "-22.3 lb",
+    "line": "Weight change since last visit: -22.3 lb.",
+    "gate_yes": 0.007,
+    "choice": "NONE (gate)",
+    "p": 0.993,
+    "seconds": 3.4
+   },
+   {
+    "weight": "170 lb",
+    "line": "O: Weight 170 lb (previous 143 lb on 2176-06-07). BMI 29.2 kg/m2.",
+    "gate_yes": 0.9923,
+    "choice": "2176-11-26",
+    "p": 0.7886,
+    "seconds": 11.06
+   },
+   {
+    "weight": "143 lb",
+    "line": "O: Weight 170 lb (previous 143 lb on 2176-06-07). BMI 29.2 kg/m2.",
+    "gate_yes": 0.9843,
+    "choice": "2176-06-07",
+    "p": 0.9753,
+    "seconds": 11.37
+   },
+   {
+    "weight": "+27 lb",
+    "line": "Weight change since last visit: +27 lb.",
+    "gate_yes": 0.0053,
+    "choice": "NONE (gate)",
+    "p": 0.9947,
+    "seconds": 3.53
+   },
+   {
+    "weight": "149.8 lb",
+    "line": "O: BP 127/48. Weight 149.8 lb (previous 170 lb on 2176-11-26). BMI 25.7 kg/m2.",
+    "gate_yes": 0.9926,
+    "choice": "2177-01-05",
+    "p": 0.9873,
+    "seconds": 11.74
+   },
+   {
+    "weight": "170 lb",
+    "line": "O: BP 127/48. Weight 149.8 lb (previous 170 lb on 2176-11-26). BMI 25.7 kg/m2.",
+    "gate_yes": 0.9758,
+    "choice": "2176-11-26",
+    "p": 0.9722,
+    "seconds": 11.67
+   },
+   {
+    "weight": "-20.2 lb",
+    "line": "Weight change since last visit: -20.2 lb.",
+    "gate_yes": 0.0076,
+    "choice": "NONE (gate)",
+    "p": 0.9924,
+    "seconds": 3.31
+   },
+   {
+    "weight": "149 lb",
+    "line": "O: Weight 149 lb (previous 149.8 lb on 2177-01-05). BMI 25.6 kg/m2.",
+    "gate_yes": 0.9912,
+    "choice": "2177-02-12",
+    "p": 0.9674,
+    "seconds": 11.49
+   },
+   {
+    "weight": "149.8 lb",
+    "line": "O: Weight 149 lb (previous 149.8 lb on 2177-01-05). BMI 25.6 kg/m2.",
+    "gate_yes": 0.986,
+    "choice": "2177-01-05",
+    "p": 0.9547,
+    "seconds": 11.9
+   },
+   {
+    "weight": "-0.8 lb",
+    "line": "Weight change since last visit: -0.8 lb.",
+    "gate_yes": 0.0052,
+    "choice": "NONE (gate)",
+    "p": 0.9948,
+    "seconds": 3.28
+   }
+  ],
+  "seconds": 119.79
+ },
+ {
+  "doc": "test_T2_10017492",
+  "pairs": [
+   {
+    "date": "2114-06-29",
+    "weight": 118.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2116-03-27",
+    "weight": 111.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "118.4 lb",
+    "line": "O: BP 145/83. Weight 118.4 lb. BMI 18.5 kg/m2.",
+    "gate_yes": 0.9885,
+    "choice": "2114-06-29",
+    "p": 0.9951,
+    "seconds": 8.76
+   },
+   {
+    "weight": "110 lb",
+    "line": "Goal weight discussed: 110 lb.",
+    "gate_yes": 0.0153,
+    "choice": "NONE (gate)",
+    "p": 0.9847,
+    "seconds": 1.44
+   },
+   {
+    "weight": "111 lb",
+    "line": "O: BP 120/78. Weight 111 lb (previous 118.4 lb on 2114-06-29). BMI 17.4 kg/m2.",
+    "gate_yes": 0.9911,
+    "choice": "2116-03-27",
+    "p": 0.9874,
+    "seconds": 5.68
+   },
+   {
+    "weight": "118.4 lb",
+    "line": "O: BP 120/78. Weight 111 lb (previous 118.4 lb on 2114-06-29). BMI 17.4 kg/m2.",
+    "gate_yes": 0.9437,
+    "choice": "2114-06-29",
+    "p": 0.9873,
+    "seconds": 5.03
+   },
+   {
+    "weight": "-7.4 lb",
+    "line": "Weight change since last visit: -7.4 lb.",
+    "gate_yes": 0.0076,
+    "choice": "NONE (gate)",
+    "p": 0.9924,
+    "seconds": 1.26
+   }
+  ],
+  "seconds": 22.17
+ },
+ {
+  "doc": "test_T2_10019917",
+  "pairs": [
+   {
+    "date": "2182-01-09",
+    "weight": 176.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2182-02-14",
+    "weight": 172.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "176.4 lb",
+    "line": "O: Weight 176.4 lb. BMI 24.6 kg/m2.",
+    "gate_yes": 0.9895,
+    "choice": "2182-01-09",
+    "p": 0.9931,
+    "seconds": 8.56
+   },
+   {
+    "weight": "164 lb",
+    "line": "Goal weight discussed: 164 lb.",
+    "gate_yes": 0.0081,
+    "choice": "NONE (gate)",
+    "p": 0.9919,
+    "seconds": 1.69
+   },
+   {
+    "weight": "172 lb",
+    "line": "O: BP 130/73. Weight 172 lb (previous 176.4 lb on 2182-01-09). BMI 25.4 kg/m2.",
+    "gate_yes": 0.9939,
+    "choice": "2182-02-14",
+    "p": 0.9827,
+    "seconds": 5.7
+   },
+   {
+    "weight": "176.4 lb",
+    "line": "O: BP 130/73. Weight 172 lb (previous 176.4 lb on 2182-01-09). BMI 25.4 kg/m2.",
+    "gate_yes": 0.9627,
+    "choice": "2182-01-09",
+    "p": 0.9921,
+    "seconds": 5.14
+   },
+   {
+    "weight": "-4.4 lb",
+    "line": "Weight change since last visit: -4.4 lb.",
+    "gate_yes": 0.0055,
+    "choice": "NONE (gate)",
+    "p": 0.9945,
+    "seconds": 1.26
+   }
+  ],
+  "seconds": 22.35
+ },
+ {
+  "doc": "test_T2_10021312",
+  "pairs": [
+   {
+    "date": "2113-08-16",
+    "weight": 193.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2113-09-12",
+    "weight": 185.6,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "193.7 lb",
+    "line": "O: Weight 193.7 lb. BMI 32.2 kg/m2.",
+    "gate_yes": 0.9923,
+    "choice": "2113-08-16",
+    "p": 0.9942,
+    "seconds": 8.63
+   },
+   {
+    "weight": "180 lb",
+    "line": "Goal weight discussed: 180 lb.",
+    "gate_yes": 0.0102,
+    "choice": "NONE (gate)",
+    "p": 0.9898,
+    "seconds": 1.62
+   },
+   {
+    "weight": "185.6 lb",
+    "line": "O: Weight 185.6 lb (previous 193.7 lb on 2113-08-16). BMI 30.9 kg/m2.",
+    "gate_yes": 0.993,
+    "choice": "2113-09-12",
+    "p": 0.9243,
+    "seconds": 5.77
+   },
+   {
+    "weight": "193.7 lb",
+    "line": "O: Weight 185.6 lb (previous 193.7 lb on 2113-08-16). BMI 30.9 kg/m2.",
+    "gate_yes": 0.9741,
+    "choice": "2113-08-16",
+    "p": 0.9917,
+    "seconds": 5.02
+   },
+   {
+    "weight": "-8.1 lb",
+    "line": "Weight change since last visit: -8.1 lb.",
+    "gate_yes": 0.0053,
+    "choice": "NONE (gate)",
+    "p": 0.9947,
+    "seconds": 1.27
+   }
+  ],
+  "seconds": 22.31
+ },
+ {
+  "doc": "test_T3_10007058",
+  "pairs": [
+   {
+    "date": "2167-06-09",
+    "weight": 81.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2167-11-23",
+    "weight": 79.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2167-11-28",
+    "weight": 81.2,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "81.2 kg",
+    "line": "His weight was recorded as 81.2 kg at the appointment of June 9, 2167.",
+    "gate_yes": 0.9906,
+    "choice": "2167-06-09",
+    "p": 0.9886,
+    "seconds": 8.52
+   },
+   {
+    "weight": "79.4 kg",
+    "line": "A body weight of 79.4 kg was documented on November 23, 2167.",
+    "gate_yes": 0.9898,
+    "choice": "2167-11-23",
+    "p": 0.9787,
+    "seconds": 8.45
+   },
+   {
+    "weight": "81.2 kg",
+    "line": "A body weight of 81.2 kg was documented on November 28, 2167.",
+    "gate_yes": 0.9859,
+    "choice": "2167-11-28",
+    "p": 0.9364,
+    "seconds": 8.48
+   }
+  ],
+  "seconds": 25.45
+ },
+ {
+  "doc": "test_T3_10038999",
+  "pairs": [
+   {
+    "date": "2132-05-18",
+    "weight": 99.8,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "99.8 kg",
+    "line": "His weight was recorded as 99.8 kg at the appointment of May 18, 2132.",
+    "gate_yes": 0.9926,
+    "choice": "2132-05-18",
+    "p": 0.9939,
+    "seconds": 7.07
+   }
+  ],
+  "seconds": 7.07
+ },
+ {
+  "doc": "test_T3_10018501",
+  "pairs": [
+   {
+    "date": "2141-11-06",
+    "weight": 89.4,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "89.4 kg",
+    "line": "At the clinic visit on November 6, 2141, he weighed 89.4 kg; blood pressure was 160/78.",
+    "gate_yes": 0.9947,
+    "choice": "2141-11-06",
+    "p": 0.9961,
+    "seconds": 7.49
+   }
+  ],
+  "seconds": 7.49
+ },
+ {
+  "doc": "test_T3_10002428",
+  "pairs": [
+   {
+    "date": "2154-10-18",
+    "weight": 45.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2155-01-31",
+    "weight": 46.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2155-03-14",
+    "weight": 45.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2155-04-18",
+    "weight": 45.8,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "45.4 kg",
+    "line": "A body weight of 45.4 kg was documented on October 18, 2154.",
+    "gate_yes": 0.9919,
+    "choice": "2154-10-18",
+    "p": 0.995,
+    "seconds": 8.29
+   },
+   {
+    "weight": "46.7 kg",
+    "line": "At the clinic visit on January 31, 2155, she weighed 46.7 kg; blood pressure was 148/80.",
+    "gate_yes": 0.9955,
+    "choice": "2155-01-31",
+    "p": 0.9977,
+    "seconds": 8.48
+   },
+   {
+    "weight": "45.8 kg",
+    "line": "When seen on March 14, 2155, her weight measured 45.8 kg.",
+    "gate_yes": 0.9956,
+    "choice": "2155-03-14",
+    "p": 0.9909,
+    "seconds": 8.4
+   },
+   {
+    "weight": "45.8 kg",
+    "line": "When seen on April 18, 2155, her weight measured 45.8 kg.",
+    "gate_yes": 0.9956,
+    "choice": "2155-04-18",
+    "p": 0.9805,
+    "seconds": 8.42
+   }
+  ],
+  "seconds": 33.58
+ },
+ {
+  "doc": "test_T3_10016150",
+  "pairs": [
+   {
+    "date": "2142-01-25",
+    "weight": 97.1,
+    "unit": "kg"
+   },
+   {
+    "date": "2142-02-20",
+    "weight": 98.9,
+    "unit": "kg"
+   },
+   {
+    "date": "2142-05-10",
+    "weight": 94.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2142-05-31",
+    "weight": 89.8,
+    "unit": "kg"
+   },
+   {
+    "date": "2142-06-04",
+    "weight": 91.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2142-08-13",
+    "weight": 93.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2143-02-25",
+    "weight": 93.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2143-04-29",
+    "weight": 89.4,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "97.1 kg",
+    "line": "His weight was recorded as 97.1 kg at the appointment of January 25, 2142.",
+    "gate_yes": 0.9939,
+    "choice": "2142-01-25",
+    "p": 0.998,
+    "seconds": 12.41
+   },
+   {
+    "weight": "98.9 kg",
+    "line": "When seen on February 20, 2142, his weight measured 98.9 kg.",
+    "gate_yes": 0.9963,
+    "choice": "2142-02-20",
+    "p": 0.998,
+    "seconds": 13.58
+   },
+   {
+    "weight": "94.3 kg",
+    "line": "His weight was recorded as 94.3 kg at the appointment of May 10, 2142.",
+    "gate_yes": 0.9951,
+    "choice": "2142-05-10",
+    "p": 0.9953,
+    "seconds": 14.48
+   },
+   {
+    "weight": "89.8 kg",
+    "line": "At the clinic visit on May 31, 2142, he weighed 89.8 kg; blood pressure was 118/64.",
+    "gate_yes": 0.9962,
+    "choice": "2142-05-31",
+    "p": 0.9969,
+    "seconds": 12.73
+   },
+   {
+    "weight": "91.6 kg",
+    "line": "A body weight of 91.6 kg was documented on June 4, 2142.",
+    "gate_yes": 0.9918,
+    "choice": "2142-06-04",
+    "p": 0.9961,
+    "seconds": 13.22
+   },
+   {
+    "weight": "93.4 kg",
+    "line": "When seen on August 13, 2142, his weight measured 93.4 kg.",
+    "gate_yes": 0.9959,
+    "choice": "2142-08-13",
+    "p": 0.9937,
+    "seconds": 13.05
+   },
+   {
+    "weight": "93.4 kg",
+    "line": "His weight was recorded as 93.4 kg at the appointment of February 25, 2143.",
+    "gate_yes": 0.9943,
+    "choice": "2143-02-25",
+    "p": 0.9939,
+    "seconds": 13.12
+   },
+   {
+    "weight": "89.4 kg",
+    "line": "A body weight of 89.4 kg was documented on April 29, 2143.",
+    "gate_yes": 0.9936,
+    "choice": "2143-04-29",
+    "p": 0.9941,
+    "seconds": 12.8
+   }
+  ],
+  "seconds": 105.4
+ },
+ {
+  "doc": "test_T3_10026406",
+  "pairs": [
+   {
+    "date": "2129-01-03",
+    "weight": 77.7,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "77.7 kg",
+    "line": "His weight was recorded as 77.7 kg at the appointment of January 3, 2129.",
+    "gate_yes": 0.992,
+    "choice": "2129-01-03",
+    "p": 0.9926,
+    "seconds": 6.7
+   }
+  ],
+  "seconds": 6.7
+ },
+ {
+  "doc": "test_T3_10010471",
+  "pairs": [
+   {
+    "date": "2155-05-08",
+    "weight": 73.1,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "73.1 kg",
+    "line": "When seen on May 8, 2155, her weight measured 73.1 kg.",
+    "gate_yes": 0.9937,
+    "choice": "2155-05-08",
+    "p": 0.9944,
+    "seconds": 6.69
+   }
+  ],
+  "seconds": 6.69
+ },
+ {
+  "doc": "test_T3_10027602",
+  "pairs": [
+   {
+    "date": "2201-08-07",
+    "weight": 69.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2202-01-16",
+    "weight": 56.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2202-02-20",
+    "weight": 55.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2202-02-21",
+    "weight": 55.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2202-05-27",
+    "weight": 53.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2202-08-26",
+    "weight": 54.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2202-11-20",
+    "weight": 55.7,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "69.2 kg",
+    "line": "When seen on August 7, 2201, her weight measured 69.2 kg.",
+    "gate_yes": 0.9951,
+    "choice": "2201-08-07",
+    "p": 0.9971,
+    "seconds": 13.38
+   },
+   {
+    "weight": "56.2 kg",
+    "line": "A body weight of 56.2 kg was documented on January 16, 2202.",
+    "gate_yes": 0.9826,
+    "choice": "2202-01-16",
+    "p": 0.9908,
+    "seconds": 12.86
+   },
+   {
+    "weight": "55.3 kg",
+    "line": "When seen on February 20, 2202, her weight measured 55.3 kg.",
+    "gate_yes": 0.996,
+    "choice": "2202-02-20",
+    "p": 0.9949,
+    "seconds": 13.25
+   },
+   {
+    "weight": "55.5 kg",
+    "line": "When seen on February 21, 2202, her weight measured 55.5 kg.",
+    "gate_yes": 0.9956,
+    "choice": "2202-02-21",
+    "p": 0.9954,
+    "seconds": 13.2
+   },
+   {
+    "weight": "53.5 kg",
+    "line": "A body weight of 53.5 kg was documented on May 27, 2202.",
+    "gate_yes": 0.9904,
+    "choice": "2202-05-27",
+    "p": 0.9915,
+    "seconds": 13.15
+   },
+   {
+    "weight": "54.6 kg",
+    "line": "At the clinic visit on August 26, 2202, she weighed 54.6 kg; blood pressure was 103/53.",
+    "gate_yes": 0.9957,
+    "choice": "2202-08-26",
+    "p": 0.9963,
+    "seconds": 13.97
+   },
+   {
+    "weight": "55.7 kg",
+    "line": "Her weight was recorded as 55.7 kg at the appointment of November 20, 2202.",
+    "gate_yes": 0.9944,
+    "choice": "2202-11-20",
+    "p": 0.9905,
+    "seconds": 13.38
+   }
+  ],
+  "seconds": 93.19
+ },
+ {
+  "doc": "test_T3_10014729",
+  "pairs": [
+   {
+    "date": "2125-02-13",
+    "weight": 72.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2125-02-22",
+    "weight": 72.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2125-03-16",
+    "weight": 68.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2125-04-05",
+    "weight": 68.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2125-04-19",
+    "weight": 68.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2125-04-26",
+    "weight": 68.0,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "72.6 kg",
+    "line": "When seen on February 13, 2125, her weight measured 72.6 kg.",
+    "gate_yes": 0.9952,
+    "choice": "2125-02-13",
+    "p": 0.9885,
+    "seconds": 13.64
+   },
+   {
+    "weight": "72.6 kg",
+    "line": "Her weight was recorded as 72.6 kg at the appointment of February 22, 2125.",
+    "gate_yes": 0.9924,
+    "choice": "2125-02-22",
+    "p": 0.9683,
+    "seconds": 13.56
+   },
+   {
+    "weight": "68 kg",
+    "line": "A body weight of 68 kg was documented on March 16, 2125.",
+    "gate_yes": 0.9847,
+    "choice": "2125-03-16",
+    "p": 0.9778,
+    "seconds": 13.19
+   },
+   {
+    "weight": "68 kg",
+    "line": "At the clinic visit on April 5, 2125, she weighed 68 kg; blood pressure was 100/60.",
+    "gate_yes": 0.9936,
+    "choice": "2125-04-05",
+    "p": 0.9836,
+    "seconds": 13.02
+   },
+   {
+    "weight": "68.5 kg",
+    "line": "When seen on April 19, 2125, her weight measured 68.5 kg.",
+    "gate_yes": 0.9965,
+    "choice": "2125-04-19",
+    "p": 0.9968,
+    "seconds": 12.74
+   },
+   {
+    "weight": "68 kg",
+    "line": "At the clinic visit on April 26, 2125, she weighed 68 kg; blood pressure was 114/70.",
+    "gate_yes": 0.9946,
+    "choice": "2125-04-26",
+    "p": 0.9852,
+    "seconds": 13.03
+   }
+  ],
+  "seconds": 79.18
+ },
+ {
+  "doc": "test_T3_10040025",
+  "pairs": [
+   {
+    "date": "2145-10-20",
+    "weight": 107.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2146-09-28",
+    "weight": 101.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2147-06-17",
+    "weight": 90.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2147-08-03",
+    "weight": 93.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2147-11-09",
+    "weight": 85.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2147-12-05",
+    "weight": 90.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2147-12-29",
+    "weight": 96.2,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "107.2 kg",
+    "line": "When seen on October 20, 2145, her weight measured 107.2 kg.",
+    "gate_yes": 0.9952,
+    "choice": "2145-10-20",
+    "p": 0.9977,
+    "seconds": 13.06
+   },
+   {
+    "weight": "101.4 kg",
+    "line": "At the clinic visit on September 28, 2146, she weighed 101.4 kg; blood pressure was not recorded.",
+    "gate_yes": 0.9949,
+    "choice": "2146-09-28",
+    "p": 0.9969,
+    "seconds": 14.12
+   },
+   {
+    "weight": "90.6 kg",
+    "line": "A body weight of 90.6 kg was documented on June 17, 2147.",
+    "gate_yes": 0.9923,
+    "choice": "2147-06-17",
+    "p": 0.9918,
+    "seconds": 13.15
+   },
+   {
+    "weight": "93 kg",
+    "line": "When seen on August 3, 2147, her weight measured 93 kg.",
+    "gate_yes": 0.9962,
+    "choice": "2147-08-03",
+    "p": 0.9953,
+    "seconds": 13.4
+   },
+   {
+    "weight": "85.3 kg",
+    "line": "Her weight was recorded as 85.3 kg at the appointment of November 9, 2147.",
+    "gate_yes": 0.9948,
+    "choice": "2147-11-09",
+    "p": 0.997,
+    "seconds": 13.14
+   },
+   {
+    "weight": "90.7 kg",
+    "line": "At the clinic visit on December 5, 2147, she weighed 90.7 kg; blood pressure was not recorded.",
+    "gate_yes": 0.9953,
+    "choice": "2147-12-05",
+    "p": 0.9951,
+    "seconds": 13.07
+   },
+   {
+    "weight": "96.2 kg",
+    "line": "At the clinic visit on December 29, 2147, she weighed 96.2 kg; blood pressure was not recorded.",
+    "gate_yes": 0.9956,
+    "choice": "2147-12-29",
+    "p": 0.9948,
+    "seconds": 13.01
+   }
+  ],
+  "seconds": 92.95
+ },
+ {
+  "doc": "test_T4_10023117",
+  "pairs": [
+   {
+    "date": "2174-03-21",
+    "weight": 170.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2174-04-21",
+    "weight": 171.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2174-06-08",
+    "weight": 173.5,
+    "unit": "lb"
+   },
+   {
+    "date": "2174-06-20",
+    "weight": 163.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2174-09-09",
+    "weight": 170.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2174-11-28",
+    "weight": 177.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2174-12-16",
+    "weight": 172.4,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "170 lb",
+    "line": "Weight            170 lb           171 lb       173.5 lb     163 lb",
+    "gate_yes": 0.9918,
+    "choice": "2174-03-21",
+    "p": 0.9843,
+    "seconds": 14.18
+   },
+   {
+    "weight": "171 lb",
+    "line": "Weight            170 lb           171 lb       173.5 lb     163 lb",
+    "gate_yes": 0.96,
+    "choice": "2174-04-21",
+    "p": 0.9727,
+    "seconds": 13.81
+   },
+   {
+    "weight": "173.5 lb",
+    "line": "Weight            170 lb           171 lb       173.5 lb     163 lb",
+    "gate_yes": 0.9928,
+    "choice": "2174-06-08",
+    "p": 0.9888,
+    "seconds": 13.91
+   },
+   {
+    "weight": "163 lb",
+    "line": "Weight            170 lb           171 lb       173.5 lb     163 lb",
+    "gate_yes": 0.9917,
+    "choice": "2174-06-20",
+    "p": 0.9857,
+    "seconds": 13.79
+   },
+   {
+    "weight": "170 lb",
+    "line": "Weight            170 lb           177 lb       172.4 lb",
+    "gate_yes": 0.9876,
+    "choice": "2174-09-09",
+    "p": 0.5146,
+    "seconds": 13.61
+   },
+   {
+    "weight": "177 lb",
+    "line": "Weight            170 lb           177 lb       172.4 lb",
+    "gate_yes": 0.9844,
+    "choice": "2174-11-28",
+    "p": 0.9804,
+    "seconds": 13.85
+   },
+   {
+    "weight": "172.4 lb",
+    "line": "Weight            170 lb           177 lb       172.4 lb",
+    "gate_yes": 0.9938,
+    "choice": "2174-12-16",
+    "p": 0.9648,
+    "seconds": 13.74
+   }
+  ],
+  "seconds": 96.88
+ },
+ {
+  "doc": "test_T4_10038992",
+  "pairs": [
+   {
+    "date": "2185-11-02",
+    "weight": 222.7,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "222.7 lb",
+    "line": "Weight            222.7 lb",
+    "gate_yes": 0.9914,
+    "choice": "2185-11-02",
+    "p": 0.9854,
+    "seconds": 6.05
+   }
+  ],
+  "seconds": 6.05
+ },
+ {
+  "doc": "test_T4_10018328",
+  "pairs": [
+   {
+    "date": "2154-02-05",
+    "weight": 136.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2154-03-21",
+    "weight": 132.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "136 lb",
+    "line": "Weight            136 lb           132 lb",
+    "gate_yes": 0.9892,
+    "choice": "2154-02-05",
+    "p": 0.9864,
+    "seconds": 7.08
+   },
+   {
+    "weight": "132 lb",
+    "line": "Weight            136 lb           132 lb",
+    "gate_yes": 0.9797,
+    "choice": "2154-03-21",
+    "p": 0.983,
+    "seconds": 6.67
+   }
+  ],
+  "seconds": 13.75
+ },
+ {
+  "doc": "test_T4_10005817",
+  "pairs": [
+   {
+    "date": "2132-12-12",
+    "weight": 200.8,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "200.8 lb",
+    "line": "Weight            200.8 lb",
+    "gate_yes": 0.9918,
+    "choice": "2132-12-12",
+    "p": 0.9861,
+    "seconds": 5.76
+   }
+  ],
+  "seconds": 5.76
+ },
+ {
+  "doc": "test_T4_10001217",
+  "pairs": [
+   {
+    "date": "2158-01-17",
+    "weight": 148.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "148 lb",
+    "line": "Weight            148 lb",
+    "gate_yes": 0.9922,
+    "choice": "2158-01-17",
+    "p": 0.9831,
+    "seconds": 5.73
+   }
+  ],
+  "seconds": 5.73
+ },
+ {
+  "doc": "test_T4_10007818",
+  "pairs": [
+   {
+    "date": "2146-06-10",
+    "weight": 196.7,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "196.7 lb",
+    "line": "Weight            196.7 lb",
+    "gate_yes": 0.9926,
+    "choice": "2146-06-10",
+    "p": 0.9853,
+    "seconds": 5.67
+   }
+  ],
+  "seconds": 5.67
+ },
+ {
+  "doc": "test_T4_10026255",
+  "pairs": [
+   {
+    "date": "2200-09-17",
+    "weight": 176.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2200-10-07",
+    "weight": 168.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2200-12-07",
+    "weight": 175.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "176 lb",
+    "line": "Weight            176 lb           168 lb       175 lb",
+    "gate_yes": 0.9888,
+    "choice": "2200-09-17",
+    "p": 0.9834,
+    "seconds": 8.54
+   },
+   {
+    "weight": "168 lb",
+    "line": "Weight            176 lb           168 lb       175 lb",
+    "gate_yes": 0.982,
+    "choice": "2200-10-07",
+    "p": 0.967,
+    "seconds": 6.02
+   },
+   {
+    "weight": "175 lb",
+    "line": "Weight            176 lb           168 lb       175 lb",
+    "gate_yes": 0.9836,
+    "choice": "2200-12-07",
+    "p": 0.9575,
+    "seconds": 6.03
+   }
+  ],
+  "seconds": 20.6
+ },
+ {
+  "doc": "test_T4_10011398",
+  "pairs": [
+   {
+    "date": "2146-05-28",
+    "weight": 141.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2146-12-01",
+    "weight": 135.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2147-01-22",
+    "weight": 127.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2147-03-26",
+    "weight": 136.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2147-06-25",
+    "weight": 139.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "141 lb",
+    "line": "Weight            141 lb           141 lb       135 lb       127 lb",
+    "gate_yes": 0.9913,
+    "choice": "2146-05-28",
+    "p": 0.8735,
+    "seconds": 13.66
+   },
+   {
+    "weight": "141 lb",
+    "line": "Weight            141 lb           141 lb       135 lb       127 lb",
+    "gate_yes": 0.9913,
+    "choice": "2146-05-28",
+    "p": 0.8735,
+    "seconds": 13.59
+   },
+   {
+    "weight": "135 lb",
+    "line": "Weight            141 lb           141 lb       135 lb       127 lb",
+    "gate_yes": 0.99,
+    "choice": "2146-12-01",
+    "p": 0.9741,
+    "seconds": 13.47
+   },
+   {
+    "weight": "127 lb",
+    "line": "Weight            141 lb           141 lb       135 lb       127 lb",
+    "gate_yes": 0.9893,
+    "choice": "2147-01-22",
+    "p": 0.9869,
+    "seconds": 13.7
+   },
+   {
+    "weight": "136 lb",
+    "line": "Weight            136 lb           139 lb       136 lb",
+    "gate_yes": 0.9918,
+    "choice": "2147-03-26",
+    "p": 0.8247,
+    "seconds": 13.87
+   },
+   {
+    "weight": "139 lb",
+    "line": "Weight            136 lb           139 lb       136 lb",
+    "gate_yes": 0.9867,
+    "choice": "2147-06-25",
+    "p": 0.9792,
+    "seconds": 16.02
+   },
+   {
+    "weight": "136 lb",
+    "line": "Weight            136 lb           139 lb       136 lb",
+    "gate_yes": 0.9918,
+    "choice": "2147-03-26",
+    "p": 0.8247,
+    "seconds": 14.42
+   }
+  ],
+  "seconds": 98.74
+ },
+ {
+  "doc": "test_T4_10005909",
+  "pairs": [
+   {
+    "date": "2144-10-29",
+    "weight": 209.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2144-11-15",
+    "weight": 240.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2144-12-10",
+    "weight": 247.4,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "209.4 lb",
+    "line": "Weight            209.4 lb         240 lb       247.4 lb",
+    "gate_yes": 0.9848,
+    "choice": "2144-10-29",
+    "p": 0.9793,
+    "seconds": 9.44
+   },
+   {
+    "weight": "240 lb",
+    "line": "Weight            209.4 lb         240 lb       247.4 lb",
+    "gate_yes": 0.9851,
+    "choice": "2144-11-15",
+    "p": 0.9841,
+    "seconds": 6.58
+   },
+   {
+    "weight": "247.4 lb",
+    "line": "Weight            209.4 lb         240 lb       247.4 lb",
+    "gate_yes": 0.9866,
+    "choice": "2144-12-10",
+    "p": 0.9646,
+    "seconds": 6.34
+   }
+  ],
+  "seconds": 22.37
+ },
+ {
+  "doc": "test_T4_10006580",
+  "pairs": [
+   {
+    "date": "2137-11-16",
+    "weight": 172.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "168 lb",
+    "line": "Weight            168 lb           168 lb       168 lb       168 lb",
+    "gate_yes": 0.9919,
+    "choice": "NONE",
+    "p": 0.5972,
+    "seconds": 10.99
+   },
+   {
+    "weight": "168 lb",
+    "line": "Weight            168 lb           168 lb       168 lb       168 lb",
+    "gate_yes": 0.9919,
+    "choice": "NONE",
+    "p": 0.5972,
+    "seconds": 12.76
+   },
+   {
+    "weight": "168 lb",
+    "line": "Weight            168 lb           168 lb       168 lb       168 lb",
+    "gate_yes": 0.9919,
+    "choice": "NONE",
+    "p": 0.5972,
+    "seconds": 11.45
+   },
+   {
+    "weight": "168 lb",
+    "line": "Weight            168 lb           168 lb       168 lb       168 lb",
+    "gate_yes": 0.9919,
+    "choice": "NONE",
+    "p": 0.5972,
+    "seconds": 11.55
+   },
+   {
+    "weight": "172 lb",
+    "line": "Weight            172 lb",
+    "gate_yes": 0.9944,
+    "choice": "2137-11-16",
+    "p": 0.9831,
+    "seconds": 10.88
+   }
+  ],
+  "seconds": 57.63
+ },
+ {
+  "doc": "test_T5_10018423",
+  "pairs": [
+   {
+    "date": "2167-05-03",
+    "weight": 109.5,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "109.5 kg",
+    "line": "- Vitals: weight 109.5 kg",
+    "gate_yes": 0.9947,
+    "choice": "2167-05-03",
+    "p": 0.9713,
+    "seconds": 7.46
+   }
+  ],
+  "seconds": 7.46
+ },
+ {
+  "doc": "test_T5_10037928",
+  "pairs": [
+   {
+    "date": "2179-11-18",
+    "weight": 56.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2180-01-26",
+    "weight": 56.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2180-04-19",
+    "weight": 59.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2180-07-06",
+    "weight": 59.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2180-07-27",
+    "weight": 59.0,
+    "unit": "kg"
+   },
+   {
+    "date": "2180-09-13",
+    "weight": 61.2,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "56.2 kg",
+    "line": "- Vitals: weight 56.2 kg, BP 160/70",
+    "gate_yes": 0.9967,
+    "choice": "2179-11-18",
+    "p": 0.9537,
+    "seconds": 15.72
+   },
+   {
+    "weight": "56.2 kg",
+    "line": "- Vitals: weight 56.2 kg, BP 144/80",
+    "gate_yes": 0.9964,
+    "choice": "2180-01-26",
+    "p": 0.949,
+    "seconds": 14.68
+   },
+   {
+    "weight": "59 kg",
+    "line": "- Vitals: weight 59 kg, BP 140/70",
+    "gate_yes": 0.9955,
+    "choice": "2180-04-19",
+    "p": 0.9819,
+    "seconds": 14.52
+   },
+   {
+    "weight": "59 kg",
+    "line": "- Vitals: weight 59 kg, BP 140/60",
+    "gate_yes": 0.9965,
+    "choice": "2180-07-06",
+    "p": 0.9878,
+    "seconds": 14.71
+   },
+   {
+    "weight": "59 kg",
+    "line": "- Vitals: weight 59 kg, BP 132/66",
+    "gate_yes": 0.9965,
+    "choice": "2180-07-27",
+    "p": 0.9853,
+    "seconds": 14.71
+   },
+   {
+    "weight": "59 kg",
+    "line": "- Vitals: weight 59 kg",
+    "gate_yes": 0.9959,
+    "choice": "2180-04-19",
+    "p": 0.677,
+    "seconds": 14.52
+   },
+   {
+    "weight": "61.2 kg",
+    "line": "- Vitals: weight 61.2 kg, BP 156/60",
+    "gate_yes": 0.9969,
+    "choice": "2180-09-13",
+    "p": 0.9842,
+    "seconds": 14.88
+   }
+  ],
+  "seconds": 103.73
+ },
+ {
+  "doc": "test_T5_10008287",
+  "pairs": [
+   {
+    "date": "2144-11-10",
+    "weight": 75.3,
+    "unit": "kg"
+   },
+   {
+    "date": "2145-11-09",
+    "weight": 75.3,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "75.3 kg",
+    "line": "- Vitals: weight 75.3 kg, BP 90/82",
+    "gate_yes": 0.9966,
+    "choice": "2144-11-10",
+    "p": 0.9653,
+    "seconds": 9.32
+   },
+   {
+    "weight": "75.3 kg",
+    "line": "- Vitals: weight 75.3 kg, BP 96/60",
+    "gate_yes": 0.9967,
+    "choice": "2145-11-09",
+    "p": 0.9699,
+    "seconds": 9.39
+   }
+  ],
+  "seconds": 18.71
+ },
+ {
+  "doc": "test_T5_10005348",
+  "pairs": [
+   {
+    "date": "2128-08-26",
+    "weight": 69.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2128-09-18",
+    "weight": 68.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2130-10-26",
+    "weight": 69.3,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "69.7 kg",
+    "line": "- Vitals: weight 69.7 kg, BP 128/75",
+    "gate_yes": 0.9973,
+    "choice": "2128-08-26",
+    "p": 0.994,
+    "seconds": 12.45
+   },
+   {
+    "weight": "68.6 kg",
+    "line": "- Vitals: weight 68.6 kg, BP 108/66",
+    "gate_yes": 0.9965,
+    "choice": "2128-09-18",
+    "p": 0.9614,
+    "seconds": 12.83
+   },
+   {
+    "weight": "69.3 kg",
+    "line": "- Vitals: weight 69.3 kg",
+    "gate_yes": 0.9961,
+    "choice": "2130-10-26",
+    "p": 0.8114,
+    "seconds": 12.45
+   }
+  ],
+  "seconds": 37.73
+ },
+ {
+  "doc": "test_T5_10010867",
+  "pairs": [
+   {
+    "date": "2148-01-26",
+    "weight": 96.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2148-03-08",
+    "weight": 95.3,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "96.2 kg",
+    "line": "- Vitals: weight 96.2 kg",
+    "gate_yes": 0.9958,
+    "choice": "2148-01-26",
+    "p": 0.988,
+    "seconds": 11.45
+   },
+   {
+    "weight": "95.3 kg",
+    "line": "- Vitals: weight 95.3 kg",
+    "gate_yes": 0.9957,
+    "choice": "2148-03-08",
+    "p": 0.9897,
+    "seconds": 11.46
+   }
+  ],
+  "seconds": 22.91
+ },
+ {
+  "doc": "test_T5_10015272",
+  "pairs": [
+   {
+    "date": "2137-06-15",
+    "weight": 53.1,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "53.1 kg",
+    "line": "- Vitals: weight 53.1 kg",
+    "gate_yes": 0.9946,
+    "choice": "2137-06-15",
+    "p": 0.9742,
+    "seconds": 7.45
+   }
+  ],
+  "seconds": 7.45
+ },
+ {
+  "doc": "test_T5_10004720",
+  "pairs": [
+   {
+    "date": "2183-12-11",
+    "weight": 64.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2184-04-20",
+    "weight": 67.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2184-06-29",
+    "weight": 68.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2184-09-14",
+    "weight": 71.2,
+    "unit": "kg"
+   },
+   {
+    "date": "2184-12-27",
+    "weight": 69.0,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "64.5 kg",
+    "line": "- Vitals: weight 64.5 kg, BP 138/75",
+    "gate_yes": 0.9971,
+    "choice": "2183-12-11",
+    "p": 0.9921,
+    "seconds": 13.59
+   },
+   {
+    "weight": "67.6 kg",
+    "line": "- Vitals: weight 67.6 kg, BP 142/84",
+    "gate_yes": 0.996,
+    "choice": "2184-04-20",
+    "p": 0.9969,
+    "seconds": 13.58
+   },
+   {
+    "weight": "68.5 kg",
+    "line": "- Vitals: weight 68.5 kg, BP 153/82",
+    "gate_yes": 0.9966,
+    "choice": "2184-06-29",
+    "p": 0.9914,
+    "seconds": 13.66
+   },
+   {
+    "weight": "71.2 kg",
+    "line": "- Vitals: weight 71.2 kg, BP 122/66",
+    "gate_yes": 0.9963,
+    "choice": "2184-09-14",
+    "p": 0.9947,
+    "seconds": 13.78
+   },
+   {
+    "weight": "69 kg",
+    "line": "- Vitals: weight 69 kg, BP 134/80",
+    "gate_yes": 0.996,
+    "choice": "2184-12-27",
+    "p": 0.9865,
+    "seconds": 13.6
+   }
+  ],
+  "seconds": 68.21
+ },
+ {
+  "doc": "test_T5_10001725",
+  "pairs": [
+   {
+    "date": "2111-05-10",
+    "weight": 74.4,
+    "unit": "kg"
+   },
+   {
+    "date": "2111-05-16",
+    "weight": 73.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2111-05-19",
+    "weight": 74.4,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "74.4 kg",
+    "line": "- Vitals: weight 74.4 kg, BP 116/72",
+    "gate_yes": 0.9963,
+    "choice": "2111-05-10",
+    "p": 0.9841,
+    "seconds": 10.1
+   },
+   {
+    "weight": "73.5 kg",
+    "line": "- Vitals: weight 73.5 kg, BP 117/82",
+    "gate_yes": 0.995,
+    "choice": "2111-05-16",
+    "p": 0.9886,
+    "seconds": 10.23
+   },
+   {
+    "weight": "74.4 kg",
+    "line": "- Vitals: weight 74.4 kg, BP 102/54",
+    "gate_yes": 0.9955,
+    "choice": "2111-05-19",
+    "p": 0.9667,
+    "seconds": 10.16
+   }
+  ],
+  "seconds": 30.49
+ },
+ {
+  "doc": "test_T5_10004235",
+  "pairs": [
+   {
+    "date": "2196-06-05",
+    "weight": 115.5,
+    "unit": "kg"
+   },
+   {
+    "date": "2196-06-15",
+    "weight": 116.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2196-06-21",
+    "weight": 115.7,
+    "unit": "kg"
+   },
+   {
+    "date": "2196-06-29",
+    "weight": 115.1,
+    "unit": "kg"
+   },
+   {
+    "date": "2196-08-03",
+    "weight": 106.8,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "115.5 kg",
+    "line": "- Vitals: weight 115.5 kg, BP 138/101",
+    "gate_yes": 0.997,
+    "choice": "2196-06-05",
+    "p": 0.9901,
+    "seconds": 16.37
+   },
+   {
+    "weight": "116.6 kg",
+    "line": "- Vitals: weight 116.6 kg",
+    "gate_yes": 0.9963,
+    "choice": "2196-06-15",
+    "p": 0.9836,
+    "seconds": 15.36
+   },
+   {
+    "weight": "115.7 kg",
+    "line": "- Vitals: weight 115.7 kg",
+    "gate_yes": 0.9975,
+    "choice": "2196-06-21",
+    "p": 0.9901,
+    "seconds": 15.76
+   },
+   {
+    "weight": "115.1 kg",
+    "line": "- Vitals: weight 115.1 kg, BP 130/89",
+    "gate_yes": 0.9971,
+    "choice": "2196-06-29",
+    "p": 0.9923,
+    "seconds": 15.71
+   },
+   {
+    "weight": "106.8 kg",
+    "line": "- Vitals: weight 106.8 kg, BP 144/95",
+    "gate_yes": 0.996,
+    "choice": "2196-08-03",
+    "p": 0.9862,
+    "seconds": 15.43
+   }
+  ],
+  "seconds": 78.64
+ },
+ {
+  "doc": "test_T5_10021118",
+  "pairs": [
+   {
+    "date": "2161-11-15",
+    "weight": 114.6,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "114.6 kg",
+    "line": "- Vitals: weight 114.6 kg",
+    "gate_yes": 0.9942,
+    "choice": "2161-11-15",
+    "p": 0.9681,
+    "seconds": 7.59
+   }
+  ],
+  "seconds": 7.59
+ }
+]

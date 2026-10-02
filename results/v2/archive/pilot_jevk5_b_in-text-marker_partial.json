@@ -1,0 +1,248 @@
+[
+ {
+  "doc": "pilot_P1_10023239_01",
+  "pairs": [
+   {
+    "date": "2139-06-08",
+    "weight": 161.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2139-06-21",
+    "weight": 164.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2139-10-17",
+    "weight": 170.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-09-18",
+    "weight": 159.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-09-19",
+    "weight": 160.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-10-11",
+    "weight": 152.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-11-05",
+    "weight": 150.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-11-14",
+    "weight": 146.0,
+    "unit": "lb"
+   },
+   {
+    "date": "2140-11-27",
+    "weight": 145.0,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "161 lb",
+    "line": "06/08/2139   155/90   [[161]]   26.8   65",
+    "gate_yes": 0.9957,
+    "choice": "2139-06-08",
+    "p": 0.9957,
+    "seconds": 11.62
+   },
+   {
+    "weight": "164 lb",
+    "line": "06/21/2139   136/79   [[164]]   27.3",
+    "gate_yes": 0.9955,
+    "choice": "2139-06-21",
+    "p": 0.9956,
+    "seconds": 11.9
+   },
+   {
+    "weight": "170 lb",
+    "line": "10/17/2139   123/80   [[170]]   28.3   65",
+    "gate_yes": 0.9935,
+    "choice": "2139-10-17",
+    "p": 0.9873,
+    "seconds": 12.01
+   },
+   {
+    "weight": "159 lb",
+    "line": "09/18/2140   125/84   [[159]]   26.5",
+    "gate_yes": 0.9955,
+    "choice": "2140-09-18",
+    "p": 0.9928,
+    "seconds": 12.06
+   },
+   {
+    "weight": "160 lb",
+    "line": "09/19/2140   128/73   [[160]]   26.2   65.5",
+    "gate_yes": 0.9959,
+    "choice": "2140-09-19",
+    "p": 0.9926,
+    "seconds": 12.48
+   },
+   {
+    "weight": "152 lb",
+    "line": "10/11/2140   114/68   [[152]]   25.1   65.25",
+    "gate_yes": 0.9938,
+    "choice": "2140-10-11",
+    "p": 0.9906,
+    "seconds": 12.46
+   },
+   {
+    "weight": "150 lb",
+    "line": "11/05/2140   125/77   [[150]]   24.8",
+    "gate_yes": 0.9929,
+    "choice": "2140-11-05",
+    "p": 0.9906,
+    "seconds": 12.39
+   },
+   {
+    "weight": "146 lb",
+    "line": "11/14/2140   127/70   [[146]]   24.3   65",
+    "gate_yes": 0.994,
+    "choice": "2140-11-14",
+    "p": 0.9899,
+    "seconds": 12.35
+   },
+   {
+    "weight": "145 lb",
+    "line": "11/27/2140   130/70   [[145]]   24.1",
+    "gate_yes": 0.9954,
+    "choice": "2140-11-27",
+    "p": 0.9902,
+    "seconds": 12.78
+   }
+  ],
+  "seconds": 110.05
+ },
+ {
+  "doc": "pilot_P2_10020740_02",
+  "pairs": [
+   {
+    "date": "2150-05-21",
+    "weight": 180.4,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-06-18",
+    "weight": 172.7,
+    "unit": "lb"
+   },
+   {
+    "date": "2150-07-10",
+    "weight": 166.9,
+    "unit": "lb"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "180.4 lb",
+    "line": "O: BP 115/67. Weight [[180.4 lb]]. BMI 28.3 kg/m2.",
+    "gate_yes": 0.9899,
+    "choice": "2150-05-21",
+    "p": 0.9945,
+    "seconds": 9.78
+   },
+   {
+    "weight": "168 lb",
+    "line": "Goal weight discussed: [[168 lb]].",
+    "gate_yes": 0.0342,
+    "choice": "NONE (gate)",
+    "p": 0.9658,
+    "seconds": 4.6
+   },
+   {
+    "weight": "172.7 lb",
+    "line": "O: BP 116/67. Weight [[172.7 lb]] (previous 180.4 lb on 2150-05-21). BMI 27.9 kg/m2.",
+    "gate_yes": 0.994,
+    "choice": "2150-06-18",
+    "p": 0.983,
+    "seconds": 10.94
+   },
+   {
+    "weight": "180.4 lb",
+    "line": "O: BP 116/67. Weight 172.7 lb (previous [[180.4 lb]] on 2150-05-21). BMI 27.9 kg/m2.",
+    "gate_yes": 0.9858,
+    "choice": "2150-05-21",
+    "p": 0.9869,
+    "seconds": 10.69
+   },
+   {
+    "weight": "7.7 lb",
+    "line": "Weight change since last visit: [[-7.7 lb]].",
+    "gate_yes": 0.0119,
+    "choice": "NONE (gate)",
+    "p": 0.9881,
+    "seconds": 4.79
+   },
+   {
+    "weight": "166.9 lb",
+    "line": "O: Weight [[166.9 lb]] (previous 172.7 lb on 2150-06-18). BMI 26.1 kg/m2.",
+    "gate_yes": 0.9913,
+    "choice": "2150-07-10",
+    "p": 0.8849,
+    "seconds": 11.29
+   },
+   {
+    "weight": "172.7 lb",
+    "line": "O: Weight 166.9 lb (previous [[172.7 lb]] on 2150-06-18). BMI 26.1 kg/m2.",
+    "gate_yes": 0.9922,
+    "choice": "2150-06-18",
+    "p": 0.978,
+    "seconds": 10.2
+   },
+   {
+    "weight": "5.8 lb",
+    "line": "Weight change since last visit: [[-5.8 lb]].",
+    "gate_yes": 0.0078,
+    "choice": "NONE (gate)",
+    "p": 0.9922,
+    "seconds": 4.42
+   }
+  ],
+  "seconds": 66.71
+ },
+ {
+  "doc": "pilot_P3_10002495_03",
+  "pairs": [
+   {
+    "date": "2140-11-01",
+    "weight": 72.6,
+    "unit": "kg"
+   },
+   {
+    "date": "2140-12-11",
+    "weight": 72.6,
+    "unit": "kg"
+   }
+  ],
+  "decisions": [
+   {
+    "weight": "72.6 kg",
+    "line": "At the clinic visit on November 1, 2140, he weighed [[72.6 kg]]; blood pressure was 148/72.",
+    "gate_yes": 0.9909,
+    "choice": "2140-11-01",
+    "p": 0.9446,
+    "seconds": 6.68
+   },
+   {
+    "weight": "72.6 kg",
+    "line": "A body weight of [[72.6 kg]] was documented on December 11, 2140.",
+    "gate_yes": 0.9706,
+    "choice": "2140-12-11",
+    "p": 0.8269,
+    "seconds": 5.86
+   }
+  ],
+  "seconds": 12.54
+ }
+]
